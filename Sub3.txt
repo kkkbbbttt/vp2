@@ -3,7 +3,6 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.141.151:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#FR%20VLESS-51%20%7C%20free-nodes
 vless://03695e31-89d2-4cce-9d7e-3e61d9d80f22@159.195.4.83:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=live.com&amp;alpn=h2&amp;fp=chrome&amp;pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&amp;type=tcp&amp;headerType=none#DE%20VLESS-50%20%7C%20free-nodes
 vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=none&amp;amp;encryption=none&amp;amp;headerType=none&amp;amp;type=tcp#GB%20VLESS-49%20%7C%20free-nodes
 trojan://Tn2Bf0iRwJkJQgDk6gX6x81RB@hl-freedom-2.undef.network:443?security=tls#GB%20TROJAN-48%20%7C%20free-nodes
@@ -53,6 +52,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNTFxNnpRRUVnUDJoVkI4V09BWW1PWnp6WHFNcTVBRVZ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YzMxYTY3YjQxYjE4YzI2@89.223.88.33:11201#%E6%9C%AA%E7%9F%A5%20SS-04%20%7C%20free-nodes
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YzgxNWJiODRjNzgxZGE1@51.75.168.50:13030#GB%20SS-03%20%7C%20free-nodes
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Njc1Y2JmNjJkNmEzYTRm@57.129.95.45:11201#DE%20SS-02%20%7C%20free-nodes
+ss://Y2hhY2hhMjAtcG9seTEzMDU6d3d3LnYybm9kZXMuY29t@www.v2nodes.com:443#%5BERROR%5D%20Please%20get%20new%20subscription%20link
 vmess://eyJhZGQiOiIxOTguNjIuNjIuMTk5IiwiaWQiOiJmMDgzNjlkMS01ZWU3LTRiMTYtZDc4Ni0zMGJjZTEyZmMzM2MiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0Ijoib3VzMy5kZWFuNTIudG9wIiwicGF0aCI6Ii9mMDgzNjlkMS01ZWU3LTRiMTYtZDc4Ni0zMGJjZTEyZmMzM2MiLCJ0bHMiOiJ0bHMiLCJhbHBuIjoiIiwiZnAiOiIiLCJzbmkiOiJvdXMzLmRlYW41Mi50b3AiLCJwcyI6Ilvwn4e68J+HuF0gW3ZtLXRsLXdzXSBbMjYwMjE3LTIzMjk1Mi40MjRdIn0K
 vmess://eyJhZGQiOiIxOTguNjIuNjIuMTk5IiwiaWQiOiJmMDgzNjlkMS01ZWU3LTRiMTYtZDc4Ni0zMGJjZTEyZmMzM2MiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0Ijoib3VzMy5kZWFuNTIudG9wIiwicGF0aCI6Ii9mMDgzNjlkMS01ZWU3LTRiMTYtZDc4Ni0zMGJjZTEyZmMzM2MiLCJ0bHMiOiJ0bHMiLCJhbHBuIjoiIiwiZnAiOiIiLCJzbmkiOiJvdXMzLmRlYW41Mi50b3AiLCJwcyI6Ilvwn4e68J+HuF0gW3ZtLXRsLXdzXSBbMjYwMjE3LTIzMjk1Mi4zNDVdIn0K
 vmess://eyJhZGQiOiIxNjIuMTU5LjE1Mi40IiwiaWQiOiIyYzk4MTE2NC05YjkzLTRiY2EtOTRmZi1iNzhkM2Y4NDk4ZDciLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoidjJyYXkuY29kZWZ5aW5jLmNvbSIsInBhdGgiOiIvdm1lc3N3cyIsInRscyI6InRscyIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsInNuaSI6InYycmF5LmNvZGVmeWluYy5jb20iLCJwcyI6Ilvwn4e68J+HuF0gW3ZtLXRsLXdzXSBbMjYwMjE3LTIzMjk0OC40NThdIn0K
