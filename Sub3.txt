@@ -3,10 +3,6 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
-vless://40a7f95c-f861-4f04-9a6e-55d624c7582c@77.83.245.193:11777?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=Yx7qVnlZif4zOda3OjieAZm352SaGzy0bNT67xNKGxQ&sni=yandex.ru&sid=a6f7168a7c3e2f77&spx=%2F#[🇹🇷] [vl-re-ra] [260221-193037.568]
-vless://0dde7988-1d5b-416f-8184-668b1a36bc48@79.137.175.59:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sni=m.vk.ru&sid=c6ef72e4635d15a5#[🇹🇷] [vl-re-ra] [260221-192745.589]
-vless://010c8bf7-0a43-404f-a6c5-2427acb4d476@tr.prod.n7.homes:8443?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sni=sun6-21.userapi.com&sid=3ca620a7ed5f3196#[🇹🇷] [vl-re-ra] [260221-192658.455]
-vless://f2eeaf91-6ac0-47f3-9673-39476e75c02d@188.114.98.0:2052?encryption=none&type=ws&host=metaplayer.gameredzone.top&path=%2Ft.me.V2RayyNGvpn%3Fed%3D1024&security=none#[🇹🇷] [vl-no-ws] [260221-194156.367]
 vless://a634a066-a73c-4dc6-93d6-d235eba56a75@172.64.155.209:2052?encryption=none&type=ws&host=metaplayer.gameredzone.top&path=%2Ft.me.V2RayyNGvpn&security=none#[🇹🇷] [vl-no-ws] [260221-193738.847]
 vless://b74d68f4-d3de-42e9-b023-d800c6a2ba17@freeiran.lookanet.app:8880?encryption=none&type=httpupgrade&host=Metaplayer.gameredzone.top&path=%2FV2RayyNGvpn%3Fed%3D512&security=none#[🇹🇷] [vl-no-ht] [260221-193835.370]
 vmess://eyJhZGQiOiJjZi4wOTAyMjcueHl6IiwiaWQiOiIyOTBjYzY5MS0zYWM2LTQzODctOThhMS0yNWM4ZWI4Y2EyZWEiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0Ijoic2dhbC5kYWdyYXRlLmV1Lm9yZyIsInBhdGgiOiIvIiwidGxzIjoidGxzIiwiYWxwbiI6IiIsImZwIjoiIiwic25pIjoic2dhbC5kYWdyYXRlLmV1Lm9yZyIsInBzIjoiW/Cfh7jwn4esXSBbdm0tdGwtd3NdIFsyNjAyMjEtMTk0NTQ4LjI1M10ifQo=
@@ -503,3 +499,7 @@ vless://405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8@deu549.worldbypass.org:443?type=tcp
 vless://405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8@deu549.worldbypass.org:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deu549.worldbypass.org#NL🇳🇱
 vless://405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8@93.94.51.162:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=deu549.worldbypass.org&allowInsecure=1#NL🇳🇱
 vless://3d285ec0-cde0-4d81-af2e-5f6b9adc3f35@nl.connectv.net:443?security=reality&encryption=none&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl.connectv.net#REALITY|NL🇳🇱
+vless://3a65b0bc-81b9-4e2f-8c2e-35511839a5ac@r2.noode.work:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=qTfZpilVyQrFDIgxmEsd18Ph3c_-8O-R_af4o_WQ_Tg&sid=f74c6a18133e2e72&type=tcp&headerType=none#REALITY|NL🇳🇱
+vless://37c79fbe-861a-4725-a8e4-196e2d886e33@dns.dressforida.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4YLfHf90V012Oyd2wHbwAXaJNvNUGrKWmatTKc165U8&sid=adedb70a7409&sni=www.mozilla.org#REALITY|NL🇳🇱
+vless://357488d2-cec8-4392-ba2a-92598c8711ee@87.239.252.186:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=uf64ptbhMNcLWuwEfOzQB7qgn725h6w9DmKRteQQPwg&security=reality&sid=46ff0446a02c&sni=www.mozilla.org&type=tcp#REALITY|NL🇳🇱
+vless://34dae96c-1a41-434f-94b6-5507c3a6d318@dlc-nl1.persianpinggame.ir:443?security=reality&encryption=none&pbk=FRhlZqNN8KVTgQ-yS-7WTqNjSi9Mhy-ItbmSqcnn5EM&headerType=none&fp=random&type=tcp&sni=yahoo.com&sid=274e8f5c1c9feb3f#REALITY|NL🇳🇱
