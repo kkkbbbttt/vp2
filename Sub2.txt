@@ -3,7 +3,6 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
-vless://8e633674-dd04-45c0-a900-04066988bd2e@38.180.204.189:443?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=_WB4K6w5EoQuBAan6fsS9NPJf5wa6ggmxIa8No93ghM&sni=google.com&sid=6553e6d9#[🇺🇸] [vl-re-ra] [260228-193426.964]
 vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&sni=www.paypal.com#[🇺🇸] [vl-re-ra] [260228-193307.513]
 vless://53cd8178-2ee6-43d9-a2a7-881f287fd408@172.234.130.82:10001?encryption=none&type=raw&headerType=none&security=reality&fp=firefox&pbk=kKX1o7FhJLyDaVE6sqXUcYpUIuFUgij_ueRYc_E4JhM&sni=yahoo.com&sid=1a24af87#[🇺🇸] [vl-re-ra] [260228-193031.855]
 vless://4bc7d558-1943-44de-bd82-56920bc9383e@freede.spectrum.vu:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=F4Cbv0swJucaDwQdOibmLHhynexUdaVf8CFvTFe81mc&sni=freede.spectrum.vu&sid=8b4c2d5a1e3f#[🇺🇸] [vl-re-ra] [260228-192954.538]
@@ -503,3 +502,4 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.20.79:989#hamedp71-🏁-38
 ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@217.30.10.18:9019#hamedp71-🏁-37
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.185.15:989#hamedp71-🏁-36
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.20.79:989#hamedp71-🏁-35
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.16.212:989#hamedp71-🏁-34
