@@ -3,7 +3,6 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
-vless://2053d74c-2a3b-453b-b665-8e25142a7569@190.93.246.113:443/?type=ws&encryption=none&host=shiny.revilseptember.workers.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Shiny.REvilSeptembEr.WorkErs.dEv&alpn=http%2F1.1&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20All
 vless://2053d74c-2a3b-453b-b665-8e25142a7569@188.114.97.70:443/?type=ws&encryption=none&host=shiny.revilseptember.workers.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Shiny.REvilSeptembEr.WorkErs.dEv&alpn=http%2F1.1&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20All
 vless://2053d74c-2a3b-453b-b665-8e25142a7569@cdnjs.com:443/?type=ws&encryption=none&host=shiny.revilseptember.workers.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Shiny.REvilSeptembEr.WorkErs.dEv&alpn=http%2F1.1&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20All
 vless://2053d74c-2a3b-453b-b665-8e25142a7569@104.21.217.48:443/?type=ws&encryption=none&host=shiny.revilseptember.workers.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Shiny.REvilSeptembEr.WorkErs.dEv&alpn=http%2F1.1&fp=safari#%20%7C%20FREEDOM%20%7C%20-%20All
