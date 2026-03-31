@@ -3,6 +3,7 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
+ss://Y2hhY2hhMjAtcG9seTEzMDU6d3d3LnYybm9kZXMuY29t@www.v2nodes.com:443#%5BERROR%5D%20Please%20get%20new%20subscription%20link
 vless://14e1775b-d92c-455b-8db3-e6c6d61909e0@172.67.172.86:80?host=vpnpro.eshghiabolfazl2009.workers.dev&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12438
 vless://14e1775b-d92c-455b-8db3-e6c6d61909e0@104.21.80.5:80?host=vpnpro.eshghiabolfazl2009.workers.dev&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12439
 vless://064059ce-23b9-45d3-953d-57d4c5092874@026.electrocellco-cf-026.workers.dev:443?encryption=none&security=tls&sni=026.elEctrOCELLCo-cF-026.wORKERs.deV&alpn=http/1.1&fp=chrome&type=ws&host=026.electrocellco-cf-026.workers.dev&path=/eyJqdW5rIjoieUVOZzhGTTh2OWdLcVYzRCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0#%5BOpenRay%5D%20Dynamic-12432
@@ -502,4 +503,3 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?encryption=none&
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=none&encryption=none&authority=telegram,@MDv2ray,@MDv2ray,@MDv2ray,@MDv2ray,@MDv2ray,@MDv2ray,@MDv2ray,@MDv2ray,@MDv2ray,@MDv2ray,@MDv2ray,@MDv2ray,@MDv2ray,@MDv2ray,@MDv2ray,@MDv2ray,@MDv2ray,@MDv2ray&fp=chrome&type=grpc#Server 112 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZjMzYzUzZjZlOWUzYzFi@85.239.232.127:10026#Server 111 🇺🇸
 vmess://eyJhZGQiOiIxNDEuOTQuMTU1LjIyOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicGVsYW5nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IlNlcnZlciAxMTAg8J+Hq/Cfh7ciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?encryption=none&type=grpc#Server 109 🇺🇸
