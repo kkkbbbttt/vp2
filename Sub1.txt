@@ -3,6 +3,7 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
+ss://Y2hhY2hhMjAtcG9seTEzMDU6d3d3LnYybm9kZXMuY29t@www.v2nodes.com:443#%5BERROR%5D%20Please%20get%20new%20subscription%20link
 vless://7890ce31-9a25-4fd4-90e7-80e5823ff510@104.18.185.26:8880?security=none&sni=Telegram-channel-WangCai2&type=ws&host=frejd.11258.workers.dev&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-11943
 vless://7890ce31-9a25-4fd4-90e7-80e5823ff510@wangcai139.cloudflare.182682.xyz:8880?encryption=none&security=none&sni=Telegram-channel-WangCai2&type=ws&host=frejd.11258.workers.dev&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#%5BOpenRay%5D%20Dynamic-11787
 vless://7890ce31-9a25-4fd4-90e7-80e5823ff510@wangcai15.cloudflare.182682.xyz:8880?encryption=none&security=none&sni=Telegram-channel-WangCai2&type=ws&host=frejd.11258.workers.dev&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#%5BOpenRay%5D%20Dynamic-11789
@@ -253,7 +254,7 @@ vmess://eyJhZGQiOiIxNDYuNTkuNTUuNTAiLCJhaWQiOjAsImhvc3QiOiJvLm1ldHVqaS5jb20iLCJp
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?encryption=none&type=grpc&mode=gun&security=none#Server 89 🇺🇸
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#Server 88 🇦🇱
 vless://ee4b0561-450d-4f5b-a8e2-f84c95def9b2@serveruwofl.samanidempire.org:443?encryption=none&type=ws&host=serveruwofl.samanidempire.org&path=%2F1ab3537d&security=tls&alpn=http%2F1.1&fp=chrome#Server 87
-vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@chatgpt.com:443?path=/O1w0n3vYgFKYs7EzNAvLPvOp&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=apii.onlineshoppingez.ir&fp=chrome&type=ws&allowInsecure=1&sni=apii.onlineshoppingez.ir#Server 86 🇨🇦
+vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@chatgpt.com:443?path=/O1w0n3vYgFKYs7EzNAvLPvOp&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=apii.onlineshoppingez.ir&fp=chrome&type=ws&allowInsecure=1&sni=apii.onlineshoppingez.ir#Server 86 🇬🇧
 vmess://eyJhZGQiOiI1Ny4xMjkuMjguNjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZhcGVuZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJTZXJ2ZXIgODUg8J+HqfCfh6oiLCJzY3kiOiJhdXRvIiwic25pIjoiZmFwZW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI1Ny4xMjkuMjguMjEyIiwiYWlkIjowLCJob3N0IjoiZmFwZW5nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOjQ0MywicHMiOiJTZXJ2ZXIgODQg8J+HqfCfh6oiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJmYXBlbmcub3JnIiwidiI6IjIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660#Server 83 🇰🇿
@@ -339,7 +340,6 @@ vmess://eyJhZGQiOiIyMC4xOTMuMTUzLjE5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.89:8080?type=tcp#Server 3 🇳🇱
 vless://5fa2319e-44a0-4497-8005-110969e98dd1@5.75.205.170:10321?security=none&encryption=none&headerType=none&type=tcp#Server 2 🇩🇪
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXRVOC9mdkNWUGFxbUtrWFY2Ylg4djhVTEk0RmNoK0VLdmcxOU1vRVRMaz0@57.131.41.129:8390#Server 1 🇮🇹
-ss://Y2hhY2hhMjAtcG9seTEzMDU6d3d3LnYybm9kZXMuY29t@www.v2nodes.com:443#%5BERROR%5D%20Please%20get%20new%20subscription%20link
 vless://a3b3d7dc-3b98-4d54-8b11-6c6dc7f6a4f6@another-cf.dnsyes.kawaii520.icu:443?encryption=none&type=ws&host=sd5488ghf26dfsae.another-appleid.ccwu.cc&path=%2F&security=tls&fp=chrome&sni=sd5488ghf26dfsae.another-appleid.ccwu.cc#[🇻🇳] [vl-tl-ws] [260517-200449.572]
 vmess://eyJhZGQiOiJ1c2FhcHAxLmppc3V5dW4udG9wIiwiaWQiOiI0YjgwYWE4Ni00MzU0LTQwYmItZDJhMy00NzEyNmNmZjBiZWEiLCJwb3J0IjoiMjA1MyIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6IndzIiwiaG9zdCI6InVzYWFwcDEuamlzdXl1bi50b3AiLCJwYXRoIjoiL3VzYXZtIiwidGxzIjoidGxzIiwiYWxwbiI6IiIsImZwIjoiIiwic25pIjoidXNhYXBwMS5qaXN1eXVuLnRvcCIsInBzIjoiW/Cfh7rwn4e4XSBbdm0tdGwtd3NdIFsyNjA1MTctMjAwNzQ0LjQ3NF0ifQo=
 vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsInBvcnQiOiI4NDQzIiwic2N5Ijoibm9uZSIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoidjJyYXkxLmRvemFwcC54eXoiLCJwYXRoIjoiL2xNbnNaVU40LyIsInRscyI6InRscyIsImFscG4iOiIiLCJmcCI6IiIsInNuaSI6InYycmF5MS5kb3phcHAueHl6IiwicHMiOiJb8J+HuvCfh7hdIFt2bS10bC13c10gWzI2MDUxNy0yMDA3NDAuODg3XSJ9Cg==
@@ -500,6 +500,6 @@ vmess://eyJhZGQiOiI0NS4xNS4xNzAuMjM3IiwiaWQiOiI4MjBkNGI0Zi0zMzU3LTRkYzctOTM4MS02
 vmess://eyJhZGQiOiI0NS4xNS4xNzAuMjM3IiwiaWQiOiI4MjBkNGI0Zi0zMzU3LTRkYzctOTM4MS02ZTVmZDUyYjVmMzkiLCJwb3J0IjoiODAiLCJzY3kiOiJhdXRvIiwidiI6IjIiLCJuZXQiOiJ3cyIsImhvc3QiOiJwZWxhbmcub3JnIiwicGF0aCI6Ii92bWVzcy8iLCJ0bHMiOiJub25lIiwicHMiOiJb8J+HpvCfh7FdIFt2bS1uby13c10gWzI2MDUxNy0yMDA3MzguMjIzXSJ9Cg==
 vless://b4819c49-6c7e-4b57-9b9b-c73031e1de11@pq-albania1.09vpn.com:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#[🇦🇱] [vl-no-ws] [260517-200502.650]
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#[🇦🇱] [vl-no-ws] [260517-200427.234]
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@[2606:4700:99e8:ea2d:3d3f:7334:adcf:4ce7]:443/?type=ws&encryption=none&host=harmony-448.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=HarmonY-448.pages.DEV&alpn=http%2F1.1&fp=firefox#%20%7C%20FREEDOM%20%7C%20-%20PSM
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@[2606:4700:1f:a305:ff57:ffdb:b0c6:848f]:443/?type=ws&encryption=none&host=harmony-448.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=HarmonY-448.pages.DEV&alpn=http%2F1.1&fp=firefox#%20%7C%20FREEDOM%20%7C%20-%20DBN
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@[2606:4700:8de4:a1e0:8c1d:594a:25a7:e822]:443/?type=ws&encryption=none&host=harmony-448.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=HarmonY-448.pages.DEV&alpn=http%2F1.1&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20FNP
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@153.121.45.101:443?path=%2Ffreecodes%2F%3Fed%3D2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#%F0%9F%94%A5%20Cloudflare
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@36.50.90.241:35951?path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#%F0%9F%94%A5%20Cloudflare
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@153.121.45.101:443?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#%F0%9F%94%A5%20Cloudflare
