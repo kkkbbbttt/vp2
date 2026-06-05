@@ -1,8 +1,0 @@
-#//profile-title: base64:8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViNyDwn5Sl
-#//profile-update-interval: 1
-#//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-#support-url: https://github.com/hamedp-71/v2go_NEW
-#profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
-vless://73a27a6d-a111-4576-a6b3-e8594aeac2f2@login.sempai.site:443?security=reality&encryption=none&pbk=HSxmRrAGkb_RPkm7rLyqr9tVCGzd9thesrdcgENYShA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=front.xwhiteness.site#🇬🇧[openproxylist.com] vless-GB
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.123:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#🇬🇧[openproxylist.com] vless-GB
-vless://02cd5551-37c2-4a8b-ae3c-09110ae2ea3b@54.38.136.47:80?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#🇵🇱[openproxylist.com] vless-PL
