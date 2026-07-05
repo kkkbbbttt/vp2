@@ -75,3 +75,5 @@ hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000/?insecure=1&sni=bin
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000/?insecure=1&sni=bing.com#EPODONIOS
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000/?insecure=1&sni=bing.com#TW
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.131.248.82:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#EPODONIOS
+hy2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#🇩🇪hamedvpns
+hy2://zhangyang@130.61.50.75:6443/?insecure=1&sni=https://www.calmloud.com#🇩🇪hamedvpns
