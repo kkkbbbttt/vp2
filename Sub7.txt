@@ -1,9 +1,0 @@
-#//profile-title: base64:8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViNyDwn5Sl
-#//profile-update-interval: 1
-#//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-#support-url: https://github.com/hamedp-71/v2go_NEW
-#profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
-vless://fcf4db22-3134-452f-a5d2-107f04afc89c@gr113.allenshop66248.ir:2053?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&amp;fp=firefox&amp;type=grpc&amp;serviceName=api.v1.data&amp;sni=play.google.com&amp;sid=524efc1f88592266#🇩🇪[openproxylist.com] vless-DE
-vless://526d2855-c7d1-ecf3-e4f8-5a75f77d5bb3@104.245.242.4:993?security=reality&type=tcp&flow=xtls-rprx-vision&sni=res.cdn.office.net&fp=firefox&pbk=_pfnx4mNda47T7Hyi_tNfnSXzL9fL4EKQWNu31NSkmo#🇳🇱[openproxylist.com] vless-NL
-vless://526d2855-c7d1-ecf3-e4f8-5a75f77d5bb3@104.245.242.4:993?security=reality&type=tcp&flow=xtls-rprx-vision&sni=cdn.steamstatic.com&fp=chrome&pbk=fp2XmT8otUDkl65Df2h1b5b0oCe0CQiAimPKEMdnwmI#🇫🇮[openproxylist.com] vless-FI
-vless://526d2855-c7d1-ecf3-e4f8-5a75f77d5bb3@104.245.242.4:993?security=reality&type=tcp&flow=xtls-rprx-vision&sni=cdn.steamstatic.com&fp=firefox&pbk=fp2XmT8otUDkl65Df2h1b5b0oCe0CQiAimPKEMdnwmI#🇫🇮[openproxylist.com] vless-FI
