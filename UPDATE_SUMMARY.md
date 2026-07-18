@@ -1,15 +1,15 @@
 # V2Ray Config Update Summary
-Generated on: 2026-07-18 05:26:11 UTC
+Generated on: 2026-07-18 07:49:45 UTC
 
 ## Configuration Statistics
-- Total configurations: 3425
+- Total configurations: 3450
 - Protocol breakdown:
   - hy2: 91 configs
-  - ss: 624 configs
+  - ss: 622 configs
   - ssr: 0 configs
-  - trojan: 603 configs
+  - trojan: 622 configs
   - tuic: 2 configs
-  - vless: 1905 configs
+  - vless: 1913 configs
   - vmess: 188 configs
 
 ## Performance
