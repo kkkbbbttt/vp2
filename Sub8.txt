@@ -1,0 +1,10 @@
+#//profile-title: base64:8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViOCDwn5Sl
+#//profile-update-interval: 1
+#//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+#support-url: https://github.com/hamedp-71/v2go_NEW
+#profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HrPCfh6cg6Iux5Zu9IFYyQ1JPU1MuQ09NIiwiYWRkIjoiOTMuMTgwLjEzNC41MiIsInBvcnQiOiIyMDc4IiwidHlwZSI6Imh0dHAiLCJpZCI6IjFjMThkYTY2LWE5MTItNDBhZi1iOTBkLTc4NzU3NGVmZTZkMyIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLz9lZD0xMDI0IiwiaG9zdCI6IndpbmRvd3M2NC5uZXQiLCJ0bHMiOiIifQ==
+trojan://humanity@172.64.146.28:443?allowInsecure=1&sni=www.gossipglove.com&ws=1&wspath=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20CloudFlare%E8%8A%82%E7%82%B9
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443?allowInsecure=0&sni=185.137.157.151#%F0%9F%87%B7%F0%9F%87%B4%20%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%20V2CROSS.COM
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?allowInsecure=0#%F0%9F%87%B7%F0%9F%87%B4%20%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%20V2CROSS.COM
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh6og5b635Zu9IOazleWwlOiCr+aWveazsOWboEhFVFpORVIiLCJhZGQiOiJtZS5lY2hvLWxpY2Vuc2UuZ3IiLCJwb3J0IjoiMTQ5OTEiLCJ0eXBlIjoiaHR0cCIsImlkIjoiZmJkMmIyZjEtYWY0YS00ZTVmLTk1NTYtYWYzN2VkZWE5ZGI1IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6InBsYXkuZ29vZ2xlLmNvbSIsInRscyI6IiJ9
