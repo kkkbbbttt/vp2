@@ -90,6 +90,7 @@ hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?obfs=salamander
 hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#github.com/Ruk1ng001_6438373236663130
 hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#github.com/Ruk1ng001_3134323237626462
 hy2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk1.shiyuandian.shop:24591?insecure=1&sni=hk1.shiyuandian.shop#%E4%B8%AD%E5%9B%BD%20-%20%E9%A6%99%E6%B8%AF%20-%20Ultahost,%20Inc.%20-%208
+hy2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@107.181.134.90:443/?sni=wopa7.api3-max.ru#EPODONIOS
 hy2://9abff4cd-ac3b-40ce-a3e7-f71f445d670f@5.183.102.113:443/?mport=50000-53000&insecure=1&sni=iosapps.itunes.apple.com#EPODONIOS
 hy2://9abff4cd-ac3b-40ce-a3e7-f71f445d670f@5.183.102.113:443/?mport=50000-53000&insecure=1&sni=iosapps.itunes.apple.com#🇬🇧英国
 hy2://9abff4cd-ac3b-40ce-a3e7-f71f445d670f@82.47.32.31:443/?mport=50000-53000&insecure=1&sni=iosapps.itunes.apple.com#EPODONIOS
