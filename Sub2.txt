@@ -3,12 +3,6 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
-trojan://ND91608427@43.201.46.108:443?sni=exotic-chow.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20KR9%7C1.8MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-KR%7CGM-KR%7CCL-KR%7CSP-KR
-trojan://ND91608427@uncommon-feline.rooster465.autos:443?sni=uncommon-feline.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20KR8%7C1.8MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-KR%7CCL-KR%7CSP-KR
-trojan://ND91608427@moved-meerkat.rooster465.autos:443?sni=moved-meerkat.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20KR7%7C1.8MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-KR%7CCL-KR%7CSP-KR
-trojan://ND91608427@saving-octopus.rooster465.autos:443?sni=saving-octopus.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20KR6%7C1.8MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-KR%7CGM-KR%7CCL-KR%7CSP-KR
-trojan://ND91608427@striking-maggot.rooster465.autos:443?sni=striking-maggot.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20KR5%7C1.8MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-KR%7CCL-KR%7CSP-KR
-trojan://ND91608427@relaxing-bluebird.rooster465.autos:443?sni=relaxing-bluebird.rooster465.autos&type=raw&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP10%7C1.8MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP%7CGM-JP%7CCL-JP%7CSP-JP
 trojan://ND91608427@humorous-malamute.rooster465.autos:443?sni=humorous-malamute.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20KR4%7C1.8MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-KR%7CCL-KR%7CSP-KR
 trojan://ND91608427@social-mutt.rooster465.autos:443?sni=social-mutt.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP9%7C1.8MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
 vless://9194bade-099b-4723-9f19-606edb5aeab8@64.176.55.120:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=shop-us-en.amd.com&fp=chrome&flow=xtls-rprx-vision&sid=06&pbk=-Xqm17XFjFPUHutSnpMNOlrqlT1pJfKuHT003dU3aks#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP8%7C1.8MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP%7CGM-JP%7CCL-JP%7CSP-JP
@@ -503,3 +497,9 @@ vless://c6f220ed-41f2-21ba-438c-80f05ebbf92a@170.168.97.5:8443?encryption=none&t
 vless://d593c88a-496b-4889-968c-6af644021467@www.baipiao.eu.org:8880?encryption=none&type=ws&host=white-disk-79ed.476.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#[🇺🇸] [vl-no-ws] [260808-225637.245]
 vless://86d998bc-a5a2-45d5-8169-b906259110a6@www.baipiao.eu.org:8880?encryption=none&type=ws&host=muddy-art-8cda.197-0c6.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#[🇺🇸] [vl-no-ws] [260808-225202.552]
 vless://59eefc04-b831-45cf-8d68-63ca23381171@172.67.69.63:8080?encryption=none&type=ws&host=premium-us-az-01-hostinger.efgwf.online&path=%2Fws-hTopcF3L&security=none#[🇺🇸] [vl-no-ws] [260808-224929.387]
+vless://4e0f4e59-3613-4f0c-b824-7348413d20e6@104.26.1.195:8080?encryption=none&type=ws&host=premium-us-ca-01-gthost.efgwf.online&path=%2Fws-6Tta3kYF&security=none#[🇺🇸] [vl-no-ws] [260808-224842.210]
+vless://3aaabf99-32c6-4032-8695-c9f0eb28be6f@104.16.98.215:8880?encryption=none&type=ws&host=divine-sound-9e93.22-be2.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#[🇺🇸] [vl-no-ws] [260808-224734.095]
+vless://2e55e846-7737-4c07-af67-191e2727513c@172.64.88.168:8880?encryption=none&type=ws&host=weathered-sunset-be54.407-d9d.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#[🇺🇸] [vl-no-ws] [260808-224650.032]
+vless://0bcec952-a452-43ed-9468-4547b9f5dfc4@70.39.197.9:59216?encryption=none&type=raw&headerType=none&security=none#[🇺🇸] [vl-no-ra] [260808-224506.758]
+trojan://ND91608427@pet-ghost.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=pet-ghost.rooster465.autos#[🇺🇸] [tr-tl-ra] [260808-224144.217]
+vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImlkIjoiOTU5YThjYWYtNGNlYS00M2QwLWE1NDgtMzYyOGU3ZGRmYWZjIiwicG9ydCI6IjM1MDM0Iiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0IjoicmF3IiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIiwicHMiOiJb8J+HufCfh7xdIFt2bS1uby1yYV0gWzI2MDgwOC0yMzAyNDIuMTgyXSJ9Cg==
