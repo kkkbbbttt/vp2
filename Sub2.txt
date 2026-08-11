@@ -3,7 +3,6 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
-vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@172.67.180.173:2053?security=tls&type=ws&path=%2F&host=music1000.melobitmusic1.ir&alpn=h2%2Chttp%2F1.1&sni=music1000.melobitmusic1.ir&fp=chrome&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20FR14%7C2.6MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-PL%7CGM-PL%7CCL-PL%7CSP-PL
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.28.234:2095?security=none&type=ws&path=%2F&host=fuckingfangbinxing.pusytroller.cf&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%40WhiteDNS%20%7C%20US28%7C2.6MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-US%7CGM-US%7CCL-US%7CSP-US
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.12:23576?security=reality&type=raw&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%40WhiteDNS%20%7C%20NL41%7C2.6MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-NL%7CGM-NL%7CCL-NL%7CSP-NL
 trojan://ND91608427@fleet-bonefish.rooster465.autos:443?sni=fleet-bonefish.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%40WhiteDNS%20%7C%20US27%7C2.6MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-US%7CCL-US%7CSP-US
@@ -503,3 +502,4 @@ vless://2a88091e-e3f8-4478-9751-6ce0557a7f2e@82.117.87.199:4100?encryption=none&
 vless://2001e98b-e06e-4244-910f-7ff640746eda@104.171.132.102:2200?encryption=none&type=ws&path=%2Fv1&security=none#[🇷🇺] [vl-no-ws] [260811-231404.044]
 vless://1a2f7607-b36a-4996-b7a2-72359123c446@194.26.229.211:4100?encryption=none&type=ws&host=live.ok.ru&path=%2Fv1&security=none#[🇷🇺] [vl-no-ws] [260811-231347.742]
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@168.222.140.204:4100?encryption=none&type=ws&path=%2Fv1&security=none#[🇷🇺] [vl-no-ws] [260811-231331.108]
+vless://112912a9-cedf-485d-b8ed-d8f8d4774437@104.171.132.185:4100?encryption=none&type=ws&host=live.ok.ru&path=%2Fv1&security=none#[🇷🇺] [vl-no-ws] [260811-231318.556]
