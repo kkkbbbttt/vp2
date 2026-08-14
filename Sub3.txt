@@ -3,9 +3,6 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
-vless://af348651-1624-4710-b55f-0307a22d891f@213.136.92.67:443?security=reality&type=tcp&packetEncoding=none&sni=status.play.google.com&fp=ios&sid=5030&pbk=jvJPfOHtnr2sH79qG-rEtJHFbr36_7Ag7ARsUmtSDQo#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE38%7C2.6MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-FR%7CGM-DE%7CCL-FR%7CSP-FR
-vless://c105e8c5-8459-44cd-96b9-cfa7ff23fc99@vmm.dearhossein-taktaz.ir:2057?security=tls&type=xhttp&path=%2F&host=vmm.dearhossein-taktaz.ir&sni=vmm.dearhossein-taktaz.ir&fp=chrome&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&encryption=mlkem768x25519plus.native.0rtt.bG30kCYyPruAEmc11-L9e94yrCS-hdWA2pup_TeSQj8#%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%40WhiteDNS%20%7C%20FI6%7C2.6MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-FI%7CGM-FI%7CCL-FI%7CSP-FI
-vless://1fe3eba8-86ef-4bce-9fb4-c7517954b2e2@15.237.122.88:42287?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=yahoo.com&fp=firefox&flow=xtls-rprx-vision&sid=946e4c05cc69e1&pbk=TeQRou69R4O0YCR0b28I3PF97W9zc3Qf-zUvlOZA43M#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20FR27%7C2.7MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-FR%7CGM-FR%7CCL-FR%7CSP-FR
 trojan://AE62539071@funny-hen.rooster465.autos:443?sni=funny-hen.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20IE23%7C2.7MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-IE%7CCL-IE%7CSP-IE
 trojan://AE62539071@moral-cow.rooster465.autos:443?sni=moral-cow.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%40WhiteDNS%20%7C%20US18%7C2.7MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-US%7CGM-US%7CCL-US%7CSP-US
 vless://af348651-1624-4710-b55f-0307a22d891f@213.136.92.67:443?security=reality&type=raw&sni=status.play.google.com&fp=chrome&sid=5030&pbk=jvJPfOHtnr2sH79qG-rEtJHFbr36_7Ag7ARsUmtSDQo&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE37%7C2.7MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-FR%7CGM-DE%7CCL-FR%7CSP-FR
@@ -503,3 +500,6 @@ vless://eb135f2b-4b9e-4abb-9a89-78242613da61@5.129.252.140:4100?encryption=none&
 vless://ea535a23-447f-4501-918c-de8a8b376bec@62.113.103.10:4100?encryption=none&type=ws&path=%2Fv1&security=none#[🇷🇺] [vl-no-ws] [260814-232042.014]
 vless://e7299042-7d8f-440f-8368-2516b0e69341@201.51.0.38:4100?encryption=none&type=ws&path=%2Fv1&security=none#[🇷🇺] [vl-no-ws] [260814-232030.774]
 vless://e58a0802-443e-4ba3-992b-73687bb5b9f0@194.26.229.217:4100?encryption=none&type=ws&host=live.ok.ru&path=%2Fv1&security=none#[🇷🇺] [vl-no-ws] [260814-232025.476]
+vless://e1e26ef7-3291-45ac-b821-a11dcdbfdb4d@109.73.193.169:4100?encryption=none&type=ws&path=%2Fv1&security=none#[🇷🇺] [vl-no-ws] [260814-232012.900]
+vless://d5d72f0a-42b0-4f43-b568-9cf7fbff073d@104.171.137.141:2200?encryption=none&type=ws&host=rzd.ru&path=%2Fv1&security=none#[🇷🇺] [vl-no-ws] [260814-231930.106]
+vless://d3984ebd-b876-4a38-be7d-90299feafc81@212.193.26.170:4100?encryption=none&type=ws&host=live.ok.ru&path=%2Fv1&security=none#[🇷🇺] [vl-no-ws] [260814-231922.261]
