@@ -3,6 +3,7 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
+trojan://AE62539071@saved-ghoul.rooster465.autos:443?sni=saved-ghoul.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20KR70%7C1.2MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-KR%7CCL-KR%7CSP-KR
 trojan://AE62539071@3.112.4.72:443?sni=definite-hen.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP181%7C1.2MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
 trojan://FH72359861@13.113.121.174:443?sni=tight-fawn.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP180%7C1.2MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
 trojan://FH72359861@13.212.77.228:443?sni=probable-weasel.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20%7C%20%40WhiteDNS%20%7C%20SG53%7C1.2MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-SG%7CCL-SG%7CSP-SG
@@ -502,4 +503,3 @@ trojan://AE62539071@3.120.138.119:443?sni=up-dinosaur.rooster465.autos&type=tcp&
 vless://ae74a0a0-b8ca-4d14-c6ea-ecbb724b0c9c@151.101.56.6:443?security=tls&type=ws&path=%2F&host=c12.com&alpn=h2&sni=ssl.fastly.com&fp=firefox&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%40WhiteDNS%20%7C%20FI12%7C2.5MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-FI%7CGM-FI%7CCL-FI%7CSP-FI
 vless://e23c84e0-957f-4757-b1d3-855d65cdb487@185.178.208.176:443?security=tls&type=ws&path=%2Fstream%2F615428%2Fsocket&host=founders-blog.online&packetEncoding=none&allowInsecure=1&sni=founders-blog.online&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20SE3%7C2.5MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-US%7CGM-DE%7CCL-US%7CSP-SE
 trojan://0b5fa773-6f37-4134-87d4-0c349742b6f6@104.21.43.90:443?sni=app-538961.user-y0o4gm.workers.dev&type=ws&path=%2F&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE106%7C2.5MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-DE%7CCL-DE%7CSP-IT
-vless://ae74a0a0-b8ca-4d14-c6ea-ecbb724b0c9c@a2.arshia-nova.ir:443?security=tls&type=ws&path=%2F&host=c12.com&alpn=h2&sni=ssl.fastly.com&fp=chrome&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%40WhiteDNS%20%7C%20FI11%7C2.5MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-FI%7CGM-FI%7CCL-FI%7CSP-FI
