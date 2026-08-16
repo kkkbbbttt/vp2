@@ -3,7 +3,6 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
-vmess://eyJhZGQiOiI4Mi4xOTguMjQ2LjM3IiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJwb3J0IjoiMTgwIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0IjoicmF3IiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIiwicHMiOiJb8J+HuvCfh7hdIFt2bS1uby1yYV0gWzI2MDgxNi0wNjAyNTQuMjUwXSJ9Cg==
 vmess://eyJhZGQiOiI4Mi4xOTguMjQ2LjI1MCIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwicG9ydCI6IjE4MCIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBzIjoiW/Cfh7rwn4e4XSBbdm0tbm8tcmFdIFsyNjA4MTYtMDYwMjU0LjE4OF0ifQo=
 vmess://eyJhZGQiOiI4Mi4xOTguMjQ2LjI1MCIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwicG9ydCI6IjE4MCIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBzIjoiW/Cfh7rwn4e4XSBbdm0tbm8tcmFdIFsyNjA4MTYtMDYwMjU0LjEyOF0ifQo=
 vmess://eyJhZGQiOiI4Mi4xOTguMjQ2LjI1MCIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwicG9ydCI6IjE4MCIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBzIjoiW/Cfh7rwn4e4XSBbdm0tbm8tcmFdIFsyNjA4MTYtMDYwMjU0LjA2Nl0ifQo=
@@ -503,3 +502,4 @@ vless://876e81f0-6961-43b4-bd64-7dc602e823ca@95.181.160.240:8433?encryption=none
 vless://8638521a-7d64-4ad0-9112-83aa1fc19867@175.195.149.58:10280?encryption=none&type=ws&host=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&path=%2F%40Marisa_kristi&security=tls&fp=chrome&sni=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev#[🇯🇵] [vl-tl-ws] [260816-055218.512]
 vless://7567dad8-bac4-4d79-ad01-560ac5f92693@210.152.85.154:19364?encryption=none&type=ws&host=mw5qisav.wjwqvie0wb1eqhb8e83clqdoq3m5p9a4on.workers.dev&path=%2F%40Marisa_kristi&security=tls&fp=chrome&sni=mw5qisav.wjwqvie0wb1eqhb8e83clqdoq3m5p9a4on.workers.dev#[🇯🇵] [vl-tl-ws] [260816-055112.613]
 vless://72af1965-ec91-4376-82b1-75be51885506@185.125.103.62:8082?encryption=none&type=ws&host=mw5qisav.wjwqvie0wb1eqhb8e83clqdoq3m5p9a4on.workers.dev&path=%2F%40Marisa_kristi&security=tls&fp=chrome&sni=mw5qisav.wjwqvie0wb1eqhb8e83clqdoq3m5p9a4on.workers.dev#[🇯🇵] [vl-tl-ws] [260816-055103.387]
+vless://726263e7-3176-4efb-a519-fe9f4ea87f7d@37.120.222.70:8082?encryption=none&type=ws&host=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev&path=%2F%40Marisa_kristi&security=tls&fp=chrome&sni=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev#[🇯🇵] [vl-tl-ws] [260816-055102.251]
