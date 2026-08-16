@@ -3,9 +3,6 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.134:443#Server 114 🇵🇱
-vmess://eyJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwiYWlkIjowLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiMjAwMTpiYzg6MzJkNzozMDI6OjEwIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL2VkPTIwNDgiLCJwb3J0IjoxODAsInBzIjoiU2VydmVyIDExMyDwn4e68J+HuCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJhdXRvIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiI4Mi4xOTguMjQ2LjI1MCIsImFpZCI6MCwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjBiMGM2ZGI2LXQ3MGY0MC10YmU0NnktMWxhN3YuaGt0LmdvdG9jaGluYXRvd24ubmV0IiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLzc5OTYwYjBiLTdkMzEtNDI2My04OTE1LTY1MTFiMGUxMzdhOC8/ZWRcXD0yNTYwIiwicG9ydCI6MTgwLCJwcyI6IlNlcnZlciAxMTIg8J+HuvCfh7giLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiYXV0byIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#Server 111 🇮🇹
 vmess://eyJhZGQiOiI4Mi4xOTguMjQ2LjIzMyIsImFpZCI6MCwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IkhMLUZSRUVET00tMS5VTkRFRi5ORVRXT1JLIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL2YyZmMyYTFmIiwicG9ydCI6MTgwLCJwcyI6IlNlcnZlciAxMTAg8J+HuvCfh7giLCJzY3kiOiJhdXRvIiwic25pIjoiSEwtRlJFRURPTS0xLlVOREVGLk5FVFdPUksiLCJ0bHMiOiJhdXRvIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiU2VydmVyIDEwOSDwn4e68J+HuCIsImFkZCI6IjgyLjE5OC4yNDYuOTciLCJwb3J0IjoxODAsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoiam9zcy5ncGo0LndlYi5pZCIsInBhdGgiOiIvIiwidGxzIjoiYXV0byIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
@@ -503,3 +500,6 @@ vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?encryption=non
 vless://795d5f5b-318c-49a6-844f-ee2ab63bbe94@35.180.187.82:12228?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=hvyaRhFtrj3cGv1Ya5uXpE256i2PoUi2fOgU0KlvKmI&sni=www.tesla.com&sid=59625eb3275249ca#[🇫🇷] [vl-re-ra] [260816-224050.800]
 vless://dc495bf5-9591-43aa-83de-d8dc7a8769b8@145.223.68.48:443?encryption=none&type=ws&path=%2Fvless&security=none#[🇫🇷] [vl-no-ws] [260816-224706.955]
 vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?encryption=none&type=raw&headerType=none&security=none#[🇫🇷] [vl-no-ra] [260816-224425.099]
+trojan://QV31589740@great-krill.rooster465.autos:443?type=raw&headerType=none&security=tls#[🇫🇷] [tr-tl-ra] [260816-223027.299]
+trojan://FH72359861@correct-pony.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=correct-pony.rooster465.autos#[🇫🇷] [tr-tl-ra] [260816-223026.062]
+vless://a9ca6fa0-d965-4126-afec-faf96a8b871d@91.193.58.201:2087?encryption=none&type=xhttp&mode=auto&host=ip-5.xn--fjqyexxidv2znoe9rk1n8ada0532g6usa.com&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=ip-1.xn--fjqyexxidv2znoe9rk1n8ada0532g6usa.com#[🇫🇮] [vl-tl-xh] [260816-224413.998]
