@@ -3,6 +3,7 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
+trojan://AE62539071@healthy-panda.rooster465.autos:443?sni=healthy-panda.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20IE18%7C2.5MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-IE%7CCL-IE%7CSP-IE
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.29:23576?security=reality&type=tcp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%40WhiteDNS%20%7C%20NL20%7C2.5MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-NL%7CCL-NL%7CSP-NL
 trojan://AE62539071@dashing-bedbug.rooster465.autos:443?sni=dashing-bedbug.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE32%7C2.5MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-DE%7CCL-DE%7CSP-DE
 trojan://FH72359861@tough-tuna.rooster465.autos:443?sni=tough-tuna.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%40WhiteDNS%20%7C%20US20%7C2.5MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-US%7CCL-US%7CSP-US
@@ -502,4 +503,3 @@ vless://155e8dd4-a559-407a-9ea8-13a5e829f066@168.222.140.204:4100?encryption=non
 vless://112912a9-cedf-485d-b8ed-d8f8d4774437@104.171.132.185:4100?encryption=none&type=ws&host=live.ok.ru&path=%2Fv1&security=none#[🇷🇺] [vl-no-ws] [260816-012459.787]
 vless://106b0505-da24-4ae4-b22c-302ab814f6f4@79.137.192.188:2200?encryption=none&type=ws&host=rzd.ru&path=%2Fv1&security=none#[🇷🇺] [vl-no-ws] [260816-012456.817]
 vless://0c4f46c2-afb7-4a80-8f6e-10258d80333e@185.185.142.79:2200?encryption=none&type=ws&path=%2Fv1&security=none#[🇷🇺] [vl-no-ws] [260816-012444.430]
-vless://099c6e3f-e8d3-41d4-95f2-ef2eafb51cdc@87.228.122.100:2200?encryption=none&type=ws&host=rzd.ru&path=%2Fv1&security=none#[🇷🇺] [vl-no-ws] [260816-012434.772]
