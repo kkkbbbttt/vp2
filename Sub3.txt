@@ -3,7 +3,6 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#Server 181 🇵🇱
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTQxLjE2NC40NS4xODc6ODg4OA==#Server 180
 vmess://eyJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwiYWlkIjowLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaGsubmJlZS5wcC51YSIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwibmV0IjoidGNwIiwicGF0aCI6Ii9hYSIsInBvcnQiOjE4MCwicHMiOiJTZXJ2ZXIgMTc5IPCfh7rwn4e4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6ImF1dG8iLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#Server 178 🇰🇷
@@ -503,3 +502,4 @@ vless://4c37df21-0a34-41bf-8bc7-78efd823c03b@172.66.200.130:8880?encryption=none
 vless://4070e7c9-a412-4ed0-a5fa-fdb455451d2c@104.17.21.32:8880?encryption=none&type=ws&host=icy-sky-53f2.9-e8e.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none#[🇸🇬] [vl-no-ws] [260817-080001.574]
 vless://3e7bb66e-d7c6-4711-aa05-e4ab0ec58c6d@104.16.100.66:8880?encryption=none&type=ws&host=shrill-cell-cca7.158-6fa.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none#[🇸🇬] [vl-no-ws] [260817-075953.293]
 vless://380de97f-1d87-4394-acb8-f9ad7a422ac1@104.18.12.229:8880?encryption=none&type=ws&host=proud-recipe-239d.305-0da.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none#[🇸🇬] [vl-no-ws] [260817-075928.727]
+vless://35b94b2c-1b46-4209-a04b-32ecf159b632@www.visa.com.sg:8880?encryption=none&type=ws&host=fragrant-tooth-2180.97-cbb.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none#[🇸🇬] [vl-no-ws] [260817-075920.439]

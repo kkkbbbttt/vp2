@@ -3,7 +3,6 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
-vless://35b94b2c-1b46-4209-a04b-32ecf159b632@www.visa.com.sg:8880?encryption=none&type=ws&host=fragrant-tooth-2180.97-cbb.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none#[🇸🇬] [vl-no-ws] [260817-075920.439]
 vless://2fb22d40-598f-4890-85a6-d69928b1fd55@104.16.107.139:8880?encryption=none&type=ws&host=odd-cloud-f2a1.73-12e.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none#[🇸🇬] [vl-no-ws] [260817-075858.634]
 vless://2e3431ac-0b98-4471-9822-6b7ae94a9a11@104.18.30.170:8880?encryption=none&type=ws&host=polished-hall-7427.463-5d2.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none#[🇸🇬] [vl-no-ws] [260817-075853.341]
 vless://2b5753cf-4d0a-4746-b63d-cd67a3de2ccc@172.67.174.37:8880?encryption=none&type=ws&host=crimson-hill-8061.166-dcf.workers.dev&path=%2F&security=none#[🇸🇬] [vl-no-ws] [260817-075843.212]
@@ -503,3 +502,4 @@ vless://9015f0bc-2053-4ca1-9b9b-a018b97b32d2@144.31.125.60:443?encryption=none&f
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.46.178:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=P5ceHLOW8Gmz45z-ozbm9T6xsdSsIGLB71-jMfSjCBQ&sni=4.oncloudnineservicestreang.com&sid=04bc695105689674#[🇩🇪] [vl-re-ra] [260817-080449.968]
 vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.247.253:2027?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sni=storage.yandex.net&sid=dc8109baf0f607ea#[🇩🇪] [vl-re-ra] [260817-080447.763]
 vless://7c9b4360-6be9-47f2-ace9-b87297ea3d8f@157.90.165.181:11762?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&sni=swdist.apple.com#[🇩🇪] [vl-re-ra] [260817-080416.800]
+vless://68dc7ee8-179e-4dff-8275-2c4ebc5c03ea@de.n.belka.network:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=diw5L3O4EkRQGWDSfdpQooPUc3zBTItooeOQ_fIDFWI&sni=yahoo.com&sid=7f2e9c4b1a8d6e53#[🇩🇪] [vl-re-ra] [260817-080302.205]
