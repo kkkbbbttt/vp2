@@ -3,7 +3,6 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@172.105.169.70:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=172.105.169.70#%F0%9F%87%A6%F0%9F%87%BA%20%7C%20%40WhiteDNS%20%7C%20AU1%7C1.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-AU%7CGM-AU%7CCL-AU
 trojan://AE62539071@frank-frog.rooster465.autos:443?sni=frank-frog.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP134%7C1.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
 trojan://FH72359861@54.248.67.10:443?sni=funny-squid.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP133%7C1.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
 vless://1bc380b1-cff7-446f-b13f-5c0ad29fc75a@zero.csmaster.ggff.net:443?security=tls&type=ws&path=%2F&host=zero.csmaster.ggff.net&sni=zero.csmaster.ggff.net&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20%7C%20%40WhiteDNS%20%7C%20SG114%7C1.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-SG%7CCL-SG%7CSP-SG
@@ -503,3 +502,4 @@ vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@199.247.30.30:3389?security=reality
 vless://4ce7cb8a-f9b1-4bfa-a80d-9e168c61a633@172.64.80.1:443?security=tls&type=ws&path=%2Fsync&host=curly-night-6928.ggdhchjk.workers.dev&sni=curly-night-6928.ggdhchjk.workers.dev&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE69%7C4.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-DE%7CCL-DE%7CSP-IT
 vless://a8890c1b-3622-3106-c4be-d8671be32d2b@172.64.80.1:443?security=tls&type=ws&path=%2Fsync&host=summer-meadow-af5b.woowoorrrkk.workers.dev&sni=summer-meadow-af5b.woowoorrrkk.workers.dev&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE68%7C4.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-DE%7CCL-DE%7CSP-IT
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@150.230.23.187:62145?security=none&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%40WhiteDNS%20%7C%20NL11%7C4.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-NL%7CGM-NL%7CCL-NL%7CSP-NL
+trojan://0b5fa773-6f37-4134-87d4-0c349742b6f6@104.21.43.90:443?sni=app-538961.user-y0o4gm.workers.dev&type=ws&path=%2F&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE67%7C4.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-DE%7CCL-DE%7CSP-IT
