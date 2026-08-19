@@ -3,6 +3,7 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
+trojan://EQ30679154@34.223.2.163:443?sni=active-hippo.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%40WhiteDNS%20%7C%20US96%7C1.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-US%7CCL-US%7CSP-US
 trojan://PQ05174892@13.114.100.100:443?sni=pleased-sawfly.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP231%7C1.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
 trojan://EQ30679154@13.231.90.240:443?sni=pure-kodiak.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP230%7C1.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
 trojan://AE62539071@deep-ringtail.rooster465.autos:443?sni=deep-ringtail.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP229%7C1.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
@@ -502,4 +503,3 @@ ss://2022-blake3-chacha20-poly1305:FRVDR68yoH7fh5rIYxMxG%2FxkQDwzAJwXk73cBP3PLvs
 trojan://EQ30679154@willing-beagle.rooster465.autos:443?sni=willing-beagle.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%AE%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20IE7%7C4.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-IE%7CCL-IE%7CSP-IE
 trojan://FH72359861@3.64.117.92:443?sni=epic-iguana.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE9%7C4.5MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-DE%7CCL-DE%7CSP-DE
 trojan://FH72359861@tough-hermit.rooster465.autos:443?sni=tough-hermit.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20FR2%7C4.5MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-FR%7CCL-FR%7CSP-FR
-trojan://PQ05174892@nice-elephant.rooster465.autos:443?sni=nice-elephant.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%AE%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20IE6%7C4.5MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-IE%7CCL-IE%7CSP-IE
