@@ -42,7 +42,6 @@ hy2://4e756809@92.4.68.18:12694/?insecure=1&sni=www.bing.com#印度
 hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@at133.mechvpn.online:443/?sni=at133.mechvpn.online#EPODONIOS
 hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@at133.mechvpn.online:443/?sni=at133.mechvpn.online#奥地利
 hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr194.mechvpn.online:443/?sni=fr194.mechvpn.online#EPODONIOS
-hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr194.mechvpn.online:443/?sni=fr194.mechvpn.online#EPODONIOS#🌐سرور
 hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr194.mechvpn.online:443/?sni=fr194.mechvpn.online#法国
 hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@nl174.mechvpn.online:443/?insecure=1&sni=nl174.mechvpn.online#EPODONIOS
 hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@nl174.mechvpn.online:443/?insecure=1&sni=nl174.mechvpn.online#荷兰
@@ -107,7 +106,6 @@ hy2://hysteria2_fastlane_9r63hua9f:KR0ayzwokB6pZySqiZ15Erm6cQHR7C4E@144.31.135.2
 hy2://hysteria2_fastlane_9r63hua9f:KR0ayzwokB6pZySqiZ15Erm6cQHR7C4E@144.31.135.204:1935/?sni=nl2.h.fastlanehosting.ru#荷兰
 hy2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@de.1.23.h2corp.org:443/?insecure=1&sni=germany3.h2corp.local#EPODONIOS
 hy2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@de.1.23.h2corp.org:443/?insecure=1&sni=germany3.h2corp.local#德国
-hy2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@de.1.23.h2corp.org:443/?insecure=1&sni=germany3.h2corp.local#德国#🌐سرور
 hy2://netherlands_3_hysteria2_fastlane_xr3nai71s:lOl51uJxl0RytJXnkz0lXF88XFVmNoJk@91.84.119.49:1935/?sni=nl4.h.fastlanehosting.ru#EPODONIOS
 hy2://netherlands_3_hysteria2_fastlane_xr3nai71s:lOl51uJxl0RytJXnkz0lXF88XFVmNoJk@91.84.119.49:1935/?sni=nl4.h.fastlanehosting.ru#荷兰
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.213.89.22:443?insecure=1&sni=vk.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#EPODONIOS
