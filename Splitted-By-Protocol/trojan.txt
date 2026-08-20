@@ -164,47 +164,6 @@ trojan://EQ30679154@moved-bass.rooster465.autos:443?allowInsecure=1&sni=moved-ba
 trojan://fg20mtCFHy@128.14.181.220:5555?allowInsecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 trojan://AE62539071@coherent-newt.rooster465.autos:443?allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
 trojan://BxceQaOe@95.40.89.31:11231?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0_HK_%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF
-trojan://EQ30679154@normal-cow.rooster465.autos:443?type=tcp&security=tls#🇩🇪[openproxylist.com] trojan-DE
-trojan://PQ05174892@108.130.49.217:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=concise-bass.rooster465.autos#🇮🇪[openproxylist.com] trojan-IE
-trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887?fp=chrome&security=tls&sni=www.nintendogames.net&type=tcp#🇭🇰[openproxylist.com] trojan-HK
-trojan://fg20mtCFHy@128.14.181.220:5555?allowInsecure=1&sni=www.bing.com#🇺🇸[openproxylist.com] trojan-US
-trojan://AE62539071@climbing-frog.rooster465.autos:443?allowInsecure=1#🇯🇵[openproxylist.com] trojan-JP
-trojan://AE62539071@dear-hermit.rooster465.autos:443?allowInsecure=1#🇺🇸[openproxylist.com] trojan-US
-trojan://AE62539071@35.88.120.18:443?allowInsecure=0&sni=dominant-jaguar.rooster465.autos#🇺🇸[openproxylist.com] trojan-US
-trojan://AE62539071@coherent-newt.rooster465.autos:443?allowInsecure=1#🇯🇵[openproxylist.com] trojan-JP
-trojan://AE62539071@frank-frog.rooster465.autos:443?allowInsecure=0&sni=frank-frog.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP
-trojan://PQ05174892@humorous-starling.rooster465.autos:443?security=tls#🇯🇵[openproxylist.com] trojan-JP
-trojan://AE62539071@18.183.109.172:443?allowInsecure=1&sni=well-jennet.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP
-trojan://PQ05174892@aware-puma.rooster465.autos:443?security=tls#🇯🇵[openproxylist.com] trojan-JP
-trojan://AE62539071@upward-yak.rooster465.autos:443?security=tls#🇯🇵[openproxylist.com] trojan-JP
-trojan://PQ05174892@ready-monarch.rooster465.autos:443?security=tls#🇯🇵[openproxylist.com] trojan-JP
-trojan://PQ05174892@balanced-goat.rooster465.autos:443?security=tls#🇯🇵[openproxylist.com] trojan-JP
-trojan://PQ05174892@evolving-kangaroo.rooster465.autos:443?security=tls#🇯🇵[openproxylist.com] trojan-JP
-trojan://PQ05174892@together-amoeba.rooster465.autos:443?security=tls#🇯🇵[openproxylist.com] trojan-JP
-trojan://HC04361579@settling-shad.rooster465.autos:443?security=tls&sni=settling-shad.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP
-trojan://EQ30679154@wealthy-gobbler.rooster465.autos:443?security=tls&sni=wealthy-gobbler.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP
-trojan://FH72359861@108.128.201.154:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=touching-turtle.rooster465.autos#🇮🇪[openproxylist.com] trojan-IE
-trojan://EQ30679154@open-octopus.rooster465.autos:443?security=tls#🇯🇵[openproxylist.com] trojan-JP
-trojan://EQ30679154@definite-gazelle.rooster465.autos:443?security=tls&sni=definite-gazelle.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP
-trojan://AE62539071@3.112.29.46:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=clear-killdeer.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP
-trojan://FH72359861@3.112.200.59:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=new-eagle.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP
-trojan://AE62539071@13.158.137.73:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=novel-bat.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP
-trojan://EQ30679154@57.180.56.235:443?security=tls&headerType=&type=tcp&sni=gentle-perch.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP
-trojan://EQ30679154@pretty-mollusk.rooster465.autos:443?security=tls#🇵🇱[openproxylist.com] trojan-PL
-trojan://HC04361579@exact-sawfish.rooster465.autos:443?security=tls&sni=exact-sawfish.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP
-trojan://FH72359861@settled-camel.rooster465.autos:443?security=tls#🇯🇵[openproxylist.com] trojan-JP
-trojan://HC04361579@pet-albacore.rooster465.autos:443?security=tls&sni=pet-albacore.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP
-trojan://HC04361579@legible-ocelot.rooster465.autos:443?security=tls&sni=legible-ocelot.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP
-trojan://PQ05174892@52.196.139.154:443?security=tls&sni=sterling-vervet.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP
-trojan://HC04361579@driven-doberman.rooster465.autos:443?security=tls&sni=driven-doberman.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP
-trojan://AE62539071@present-warthog.rooster465.autos:443?security=tls&sni=present-warthog.rooster465.autos&type=tcp&path=/&allow_insecure=1#🇳🇱[openproxylist.com] trojan-NL
-trojan://HC04361579@accepted-starling.rooster465.autos:443?security=tls&sni=accepted-starling.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP
-trojan://PQ05174892@13.113.98.210:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=mighty-lemming.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP
-trojan://AE62539071@sweeping-parakeet.rooster465.autos:443?security=tls#🇯🇵[openproxylist.com] trojan-JP
-trojan://AE62539071@awaited-lark.rooster465.autos:443?security=tls#🇯🇵[openproxylist.com] trojan-JP
-trojan://AE62539071@central-jawfish.rooster465.autos:443?security=tls#🇯🇵[openproxylist.com] trojan-JP
-trojan://AE62539071@known-albacore.rooster465.autos:443?security=tls#🇯🇵[openproxylist.com] trojan-JP
-trojan://AE62539071@18.201.28.146:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=helped-haddock.rooster465.autos#🇮🇪[openproxylist.com] trojan-IE
 trojan://AE62539071@13.158.137.73:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=novel-bat.rooster465.autos#%3E%3E%40configV2rayNG%3A%3AJP
 trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.nintendogames.net#%3E%3E%40configV2rayNG%3A%3AHK
 trojan://AE62539071@13.250.126.30:443?fp=chrome&sni=adapted-martin.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3ASG
@@ -565,6 +524,38 @@ trojan://AE62539071@upright-bedbug.rooster465.autos:443?security=tls#%F0%9F%87%A
 trojan://ND91608427@upright-hamster.rooster465.autos:443?security=tls&sni=upright-hamster.rooster465.autos#%F0%9F%87%AD%F0%9F%87%B0HK-185.244.208.210-0252
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682?security=tls&sni=t11.qifei.app#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.110.77-0275
 trojan://QV31589740@great-krill.rooster465.autos:443?security=tls&sni=great-krill.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR-51.44.160.58-0113
+trojan://AE62539071@185.14.47.228:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=wealthy-loon.rooster465.autos#🇭🇰[openproxylist.com] trojan-HK
+trojan://EQ30679154@normal-cow.rooster465.autos:443?type=tcp&security=tls#🇩🇪[openproxylist.com] trojan-DE
+trojan://PQ05174892@108.130.49.217:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=concise-bass.rooster465.autos#🇮🇪[openproxylist.com] trojan-IE
+trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887?fp=chrome&security=tls&sni=www.nintendogames.net&type=tcp#🇭🇰[openproxylist.com] trojan-HK
+trojan://fg20mtCFHy@128.14.181.220:5555?allowInsecure=1&sni=www.bing.com#🇺🇸[openproxylist.com] trojan-US
+trojan://AE62539071@climbing-frog.rooster465.autos:443?allowInsecure=1#🇯🇵[openproxylist.com] trojan-JP
+trojan://AE62539071@dear-hermit.rooster465.autos:443?allowInsecure=1#🇺🇸[openproxylist.com] trojan-US
+trojan://AE62539071@35.88.120.18:443?allowInsecure=0&sni=dominant-jaguar.rooster465.autos#🇺🇸[openproxylist.com] trojan-US
+trojan://AE62539071@coherent-newt.rooster465.autos:443?allowInsecure=1#🇯🇵[openproxylist.com] trojan-JP
+trojan://AE62539071@frank-frog.rooster465.autos:443?allowInsecure=0&sni=frank-frog.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP
+trojan://PQ05174892@humorous-starling.rooster465.autos:443?security=tls#🇯🇵[openproxylist.com] trojan-JP
+trojan://AE62539071@18.183.109.172:443?allowInsecure=1&sni=well-jennet.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP
+trojan://PQ05174892@aware-puma.rooster465.autos:443?security=tls#🇯🇵[openproxylist.com] trojan-JP
+trojan://PQ05174892@balanced-goat.rooster465.autos:443?security=tls#🇯🇵[openproxylist.com] trojan-JP
+trojan://PQ05174892@evolving-kangaroo.rooster465.autos:443?security=tls#🇯🇵[openproxylist.com] trojan-JP
+trojan://PQ05174892@usable-dogfish.rooster465.autos:443?security=tls&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0#🇩🇪[openproxylist.com] trojan-DE
+trojan://FH72359861@108.128.201.154:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=touching-turtle.rooster465.autos#🇮🇪[openproxylist.com] trojan-IE
+trojan://EQ30679154@open-octopus.rooster465.autos:443?security=tls#🇯🇵[openproxylist.com] trojan-JP
+trojan://EQ30679154@definite-gazelle.rooster465.autos:443?security=tls&sni=definite-gazelle.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP
+trojan://AE62539071@3.112.29.46:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=clear-killdeer.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP
+trojan://FH72359861@3.112.200.59:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=new-eagle.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP
+trojan://AE62539071@13.158.137.73:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=novel-bat.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP
+trojan://EQ30679154@57.180.56.235:443?security=tls&headerType=&type=tcp&sni=gentle-perch.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP
+trojan://PQ05174892@52.196.139.154:443?security=tls&sni=sterling-vervet.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP
+trojan://AE62539071@present-warthog.rooster465.autos:443?security=tls&sni=present-warthog.rooster465.autos&type=tcp&path=/&allow_insecure=1#🇳🇱[openproxylist.com] trojan-NL
+trojan://HC04361579@accepted-starling.rooster465.autos:443?security=tls&headerType=&type=tcp&sni=accepted-starling.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP
+trojan://PQ05174892@13.113.98.210:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=mighty-lemming.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP
+trojan://AE62539071@sweeping-parakeet.rooster465.autos:443?security=tls#🇯🇵[openproxylist.com] trojan-JP
+trojan://AE62539071@awaited-lark.rooster465.autos:443?security=tls#🇯🇵[openproxylist.com] trojan-JP
+trojan://AE62539071@central-jawfish.rooster465.autos:443?security=tls#🇯🇵[openproxylist.com] trojan-JP
+trojan://AE62539071@known-albacore.rooster465.autos:443?security=tls#🇯🇵[openproxylist.com] trojan-JP
+trojan://AE62539071@18.201.28.146:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=helped-haddock.rooster465.autos#🇮🇪[openproxylist.com] trojan-IE
 trojan://AE62539071@emerging-weevil.rooster465.autos:443#NL🇳🇱
 trojan://AE62539071@present-warthog.rooster465.autos:443#NL🇳🇱
 trojan://AE62539071@present-warthog.rooster465.autos:443?security=tls&sni=present-warthog.rooster465.autos&type=tcp&path=%2F&allow_insecure=1#NL🇳🇱
