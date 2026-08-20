@@ -3,6 +3,7 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
+trojan://M7v%w11Se*@hyfuuf6.wsone.icu:443?sni=hyfuuf6.wsone.icu&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%B3%20%7C%20%40WhiteDNS%20%7C%20IN7%7C1.3MB%2Fs%7CGPT%E2%81%BA-IN%7CGM-IN%7CCL-IN%7CSP-IN
 trojan://PQ05174892@glorious-hamster.rooster465.autos:443?sni=glorious-hamster.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP267%7C1.3MB%2Fs%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
 trojan://ND91608427@healthy-louse.rooster465.autos:443?sni=healthy-louse.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP266%7C1.3MB%2Fs%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
 trojan://PQ05174892@inspired-hound.rooster465.autos:443?sni=inspired-hound.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP265%7C1.3MB%2Fs%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
@@ -502,4 +503,3 @@ trojan://FH72359861@13.158.135.118:443?sni=literate-cow.rooster465.autos&type=tc
 vless://6fe06b02-74f7-431f-8ca4-c702fa3322bf@138.124.254.68:8443?security=reality&type=tcp&sni=de-two.quiet-rogue.site&fp=firefox&flow=xtls-rprx-vision&sid=00a02855ba568c29&pbk=QMJRGTqZRbpeLpIAdvn6dhftuzrpwbtwmVG2s5IuuU0#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE197%7C1.7MB%2Fs%7CGPT%E2%81%BA-DE%7CCL-DE%7CSP-DE
 trojan://AE62539071@194.99.79.121:443?sni=modest-foal.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20%7C%20%40WhiteDNS%20%7C%20HK35%7C1.7MB%2Fs%7CSP-HK
 trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@edu.ruangguru.com:443?sni=id1.nathaya.web.id&allowInsecure=1&type=ws&path=%2Ftrojan&fp=chrome#%F0%9F%87%AE%F0%9F%87%A9%20%7C%20%40WhiteDNS%20%7C%20ID2%7C1.7MB%2Fs%7CGPT%E2%81%BA-ID%7CGM-ID%7CCL-ID%7CSP-ID
-trojan://ND91608427@52.196.121.8:443?sni=thankful-mustang.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP60%7C1.7MB%2Fs%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP

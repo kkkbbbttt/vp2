@@ -3,6 +3,7 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgfCBAV2hpdGVETlMgfCBTRzkwfDEuMk1CL3N8R1BU4oG6LVNHfEdNLUlOfENMLVNHfFNQLVNHIiwiYWRkIjoiMTQ5Ljg4LjIzLjIwMiIsInBvcnQiOiIxODAwMCIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgfCBAV2hpdGVETlMgfCBDQTUxfDEuMk1CL3N8R1BU4oG6LUNBfEdNLVVTfENMLUNBfFNQLUNBIiwiYWRkIjoiMTM0LjE5NS4xOTYuMjExIiwicG9ydCI6IjE4MDAwIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIifQ==
 trojan://ND91608427@185.244.208.210:443?sni=upright-hamster.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20%7C%20%40WhiteDNS%20%7C%20HK134%7C1.2MB%2Fs%7CSP-HK
 vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=33acba1b&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%40WhiteDNS%20%7C%20US385%7C1.2MB%2Fs%7CGPT%E2%81%BA-US%7CGM-GB%7CCL-US%7CSP-US
@@ -502,4 +503,3 @@ vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?security=reality&
 trojan://PQ05174892@13.192.168.51:443?sni=learning-leopard.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP268%7C1.3MB%2Fs%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
 trojan://AE62539071@modest-foal.rooster465.autos:443?sni=modest-foal.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20%7C%20%40WhiteDNS%20%7C%20HK103%7C1.3MB%2Fs%7CSP-HK
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgfCBAV2hpdGVETlMgfCBTRzc0fDEuM01CL3N8R1BU4oG6LVNHfEdNLVNHfENMLVNHfFNQLVNHIiwiYWRkIjoic2luZ2Fwb3JlMDEuemdqb2suY29tIiwicG9ydCI6IjQ0MyIsImlkIjoiOTQ2OWJmODQtNmUyYS00Y2MyLTg0ZTktZjMzNDE2MWE5ZTk0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJzaW5nYXBvcmUwMS56Z2pvay5jb20iLCJwYXRoIjoiLyIsImhvc3QiOiJzaW5nYXBvcmUwMS56Z2pvay5jb20ifQ==
-trojan://M7v%w11Se*@hyfuuf6.wsone.icu:443?sni=hyfuuf6.wsone.icu&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%B3%20%7C%20%40WhiteDNS%20%7C%20IN7%7C1.3MB%2Fs%7CGPT%E2%81%BA-IN%7CGM-IN%7CCL-IN%7CSP-IN
