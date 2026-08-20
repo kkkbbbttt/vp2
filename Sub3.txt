@@ -3,6 +3,9 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
+trojan://EQ30679154@175.41.234.16:443?sni=open-octopus.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP278%7C1.3MB%2Fs%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggfCBAV2hpdGVETlMgfCBVUzMxMnwxLjNNQi9zfEdQVOKBui1VU3xHTS1VU3xDTC1VU3xTUC1VUyIsImFkZCI6IjY3LjIyMC43Mi4yMzciLCJwb3J0IjoiMjIzMjQiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiJ9
+vless://d96e05a1-18bb-45da-9e9f-ab7caab6952a@31.207.7.210:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=se1.se-cdn.ru&fp=firefox&flow=xtls-rprx-vision&sid=2d6d073dc88f22a8&pbk=nF_kEdHan2dgl2tlQ_dtNaKZ4oORhuiFrXHbtEDcT2Q#%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20SE20%7C1.3MB%2Fs%7CGPT%E2%81%BA-FI%7CCL-FI%7CSP-SE
 trojan://PQ05174892@safe-frog.rooster465.autos:443?sni=safe-frog.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP277%7C1.3MB%2Fs%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
 trojan://PQ05174892@3.112.250.103:443?sni=flexible-pony.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP276%7C1.3MB%2Fs%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
 trojan://PQ05174892@3.112.19.207:443?sni=amazed-burro.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP275%7C1.3MB%2Fs%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
@@ -500,6 +503,3 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgfCBAV2hpdGVETlMgfCBTRzUzfDEuN01CL3N8R1BU
 trojan://PQ05174892@3.112.19.207:443?sni=amazed-burro.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP91%7C1.7MB%2Fs%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgfCBAV2hpdGVETlMgfCBTRzUyfDEuN01CL3N8R1BU4oG6LVNHfEdNLUlOfENMLVNHfFNQLVNHIiwiYWRkIjoiMTQ5Ljg4LjIzLjIwMiIsInBvcnQiOiIxODAwMCIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIn0=
 trojan://AE62539071@194.99.79.197:443?sni=smiling-ray.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20%7C%20%40WhiteDNS%20%7C%20HK42%7C1.7MB%2Fs%7CSP-HK
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@103.169.67.34:65443#%F0%9F%87%B9%F0%9F%87%AD%20%7C%20%40WhiteDNS%20%7C%20TH7%7C1.7MB%2Fs%7CGPT%E2%81%BA-TH%7CGM-TH%7CCL-TH%7CSP-TH
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.73.137:443?security=reality&type=tcp&sni=eu-central.cendora.ru&fp=chrome&flow=xtls-rprx-vision&sid=00bca5982f82d083&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&encryption=none#%F0%9F%87%AE%F0%9F%87%B9%20%7C%20%40WhiteDNS%20%7C%20IT20%7C1.7MB%2Fs%7CGPT%E2%81%BA-DE%7CGM-DE%7CCL-DE%7CSP-US
-vless://048a61f8-b236-4082-b1c3-c22a85693c12@162.128.181.182:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=firefox&flow=xtls-rprx-vision&sid=674a07ea4d1c4255&pbk=gcqSfWJ1yR5Aa2fsBYZ3vyaC0yQnil4qqNMZN4weZlE&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP90%7C1.7MB%2Fs%7CGPT%E2%81%BA-JP%7CGM-JP%7CCL-JP%7CSP-JP
