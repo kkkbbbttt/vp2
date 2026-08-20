@@ -3,7 +3,6 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
-vless://959c245a-7ec8-40c6-80bc-0ce3118184f4@91.99.178.63:443?security=reality&type=tcp&sni=aws-us-east-1.amazon.com&fp=chrome&flow=xtls-rprx-vision&sid=c5dce26cdc7af4e7&pbk=nE7CcyQ_ZG0vGMplZ91L4L_oOB9q7annsWMINWp3nWM&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE65%7C5.5MB%2Fs%7CGPT%E2%81%BA-DE%7CGM-DE%7CCL-DE%7CSP-DE
 trojan://PQ05174892@54.93.54.137:443?sni=informed-alpaca.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE64%7C5.5MB%2Fs%7CGPT%E2%81%BA-DE%7CCL-DE%7CSP-DE
 trojan://FH72359861@smiling-fowl.rooster465.autos:443?sni=smiling-fowl.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20FR29%7C5.5MB%2Fs%7CGPT%E2%81%BA-FR%7CCL-FR%7CSP-FR
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?security=tls&type=ws&path=%2Fhdgrbws%23telegram-marambashi_marambashi_marambashi_marambashi_marambashi&host=terazhediii.info&sni=joinproxyvpn11.terazhediii.info&fp=chrome&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%40WhiteDNS%20%7C%20GB15%7C5.5MB%2Fs%7CGPT%E2%81%BA-GB%7CGM-GB%7CCL-GB
@@ -503,3 +502,4 @@ vless://5aab0d40-c509-4560-b048-ade921fdfb6a@70.39.198.183:46197?encryption=none
 vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&sni=www.apple.com&sid=33acba1b#[🇺🇸] [vl-re-ra] [260820-193135.370]
 vless://522fdbb0-61a9-4779-bcc9-ebae85978685@195.211.98.214:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=1GEimhTv11Oyp85VBhiJ77ytOsmb3O6On8O7jkdH0EE&sni=www.cloudflare.com&sid=62bae2f417e00f89#[🇺🇸] [vl-re-ra] [260820-193135.232]
 vless://44897c4d-b924-4315-a07e-a1124c029f9c@mdfd-tuprgb.calvanta.top:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=z28COr6Up8DlUK4rwCNZlitse32WOXaHJmWvxRjtjjU&sni=www.bing.com&sid=22927768303dd453#[🇺🇸] [vl-re-ra] [260820-193126.207]
+vless://302c2e89-6f2d-4500-90ce-26d075c7e84f@66.78.40.202:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=8zJkTehTmhmgKWUIj-CyJP4gtMjNxLgBxPjHC1wwW3A&sni=www.samsung.com&sid=61&spx=%2Fb46a29a208a37d1#[🇺🇸] [vl-re-ra] [260820-193115.385]
