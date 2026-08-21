@@ -3,7 +3,6 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
-ss://Y2hhY2hhMjAtcG9seTEzMDU6d3d3LnYybm9kZXMuY29t@www.v2nodes.com:443#%5BERROR%5D%20Please%20get%20new%20subscription%20link
 vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.paypal.com&fp=chrome&security=reality&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&sid=#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-11400
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc@209.46.102.22:8388#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-10070
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-629
@@ -22,8 +21,8 @@ vless://594d466e-8ac3-4fda-b1d1-eeb817853518@staging.lastilhame.monster:443?type
 vless://de38389f-5651-4f2f-8276-5aabf3b861c9@staging.lastilhame.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&sid=225e930cfd4d&sni=www.hollywoodreporter.com#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-300
 vless://ee39fb11-56a3-4ee7-9e7c-35a4235bd30e@staging.lastilhame.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&sid=b27ba098687b&sni=www.tradingview.com#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-301
 vless://2ba7f500-017b-4891-87a0-e4e62a4ad52d@staging.lastilhame.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&sid=9409f73c2fd7&sni=www.microsoft.com#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-299
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-633
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDIxMy4yMDIuMjA4LjE5OTo3MDAx#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-6122
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-633
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDE5My4yOS4xMzkuMTUxOjgwODA=#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-708
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-450
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDE5My4yOS4xMzkuMjA0OjgwODA=#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-732
@@ -59,8 +58,8 @@ vless://sGLzG6kUwBpZd73sW0nq@81.208.170.142:1500?security=reality&encryption=non
 vmess://eyJ2IjoiMiIsImFkZCI6IjEwNC4xNy43Ny43NyIsInBvcnQiOiI4NDQzIiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoid3MiLCJob3N0IjoiIiwicGF0aCI6Ii9sTW5zWlVONC8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsInBzIjoiW09wZW5SYXldIPCfh6jwn4emIENBLTE0MzA3In0=
 vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh6jwn4emIENBLTE0MTUzIiwiYWRkIjoiMTA0LjE3Ljc3Ljc3IiwicG9ydCI6Ijg0NDMiLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsImFpZCI6IjAiLCJzY3kiOiJub25lIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwicGF0aCI6Ii9sTW5zWlVONC8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMSJ9
 trojan://humanity@www.calmlunch.com:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&type=ws#%5BOpenRay%5D%20Dynamic-11959
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@77.246.109.191:34045/?type=tcp&encryption=none&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&security=reality&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-426
 vless://7d90f043-ed7f-40c9-ac2f-352987904958@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-5378
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@77.246.109.191:34045/?type=tcp&encryption=none&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&security=reality&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-426
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-5320
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-421
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-114
@@ -112,11 +111,9 @@ hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.155.42:443/?insecure=1&sni=vpn-sg-001.fast
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.155.42:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#EPODONIOS
 hy2://oU4tGn37oQ9JGmqnlTGkU3knrfAbclsq@vip-jp-4.hkd4fwmg.vip:32135/?insecure=1&sni=vip-jp-4.hkd4fwmg.vip#JP
 hy2://oU4tGn37oQ9JGmqnlTGkU3knrfAbclsq@vip-jp-4.hkd4fwmg.vip:32135/?insecure=1&sni=vip-jp-4.hkd4fwmg.vip#EPODONIOS
-hy2://oU4tGn37oQ9JGmqnlTGkU3knrfAbclsq@vip-jp-4.hkd4fwmg.vip:32135/?insecure=1&security=tls&sni=vip-jp-4.hkd4fwmg.vip#%E9%A6%99%E6%B8%AF+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 hy2://netherlands_3_hysteria2_fastlane_xr3nai71s:lOl51uJxl0RytJXnkz0lXF88XFVmNoJk@91.84.119.49:1935/?sni=nl4.h.fastlanehosting.ru#荷兰
 hy2://netherlands_3_hysteria2_fastlane_xr3nai71s:lOl51uJxl0RytJXnkz0lXF88XFVmNoJk@91.84.119.49:1935/?sni=nl4.h.fastlanehosting.ru#EPODONIOS
 hy2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@de.1.23.h2corp.org:443/?insecure=1&sni=germany3.h2corp.local#德国
-hy2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@de.1.23.h2corp.org:443/?insecure=1&sni=germany3.h2corp.local#EPODONIOS#🌐سرور
 hy2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@de.1.23.h2corp.org:443/?insecure=1&sni=germany3.h2corp.local#EPODONIOS
 hy2://hysteria2_fastlane_9r63hua9f:KR0ayzwokB6pZySqiZ15Erm6cQHR7C4E@144.31.135.204:1935/?sni=nl2.h.fastlanehosting.ru#荷兰
 hy2://hysteria2_fastlane_9r63hua9f:KR0ayzwokB6pZySqiZ15Erm6cQHR7C4E@144.31.135.204:1935/?sni=nl2.h.fastlanehosting.ru#EPODONIOS
@@ -162,7 +159,6 @@ hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.164:8443/?sni=grape-zet-
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&sni=127.0.0.1#EPODONIOS
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443/?insecure=1&sni=202.146.222.29#Hong%20Kong%20%F0%9F%87%AD%F0%9F%87%B0
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443/?insecure=1&sni=202.146.222.29#EPODONIOS
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443/?insecure=1&security=tls&sni=202.146.222.29#%E9%A6%99%E6%B8%AF+%E7%89%B9%E5%88%AB%E8%A1%8C%E6%94%BF%E5%8C%BA
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.226.172.222:443/?insecure=1&sni=vpn-us-003.fastervpn.world#美国
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.226.172.222:443/?insecure=1&sni=vpn-us-003.fastervpn.world#EPODONIOS
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443/?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#EPODONIOS
@@ -178,7 +174,6 @@ hy2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.105:8080/?insecure=1&sni=
 hy2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.105:8080/?insecure=1&sni=mercedes-grape.yyuyy.com#EPODONIOS
 hy2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@deu0003ntrhy01.tcp-reset-club.net:443/?insecure=1&sni=deu0003ntrhy01.tcp-reset-club.net#德国
 hy2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@deu0003ntrhy01.tcp-reset-club.net:443/?insecure=1&sni=deu0003ntrhy01.tcp-reset-club.net#EPODONIOS
-hy2://865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01@streambox.wwwinternetvideo.click:443/?insecure=1&sni=streambox.wwwinternetvideo.click#波兰#🌐سرور
 hy2://865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01@streambox.wwwinternetvideo.click:443/?insecure=1&sni=streambox.wwwinternetvideo.click#波兰
 hy2://865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01@streambox.wwwinternetvideo.click:443/?insecure=1&sni=streambox.wwwinternetvideo.click#EPODONIOS
 hy2://85a88b70b5f2f73d0dcac92bd3934a5e@211.22.154.26:50160/?sni=211-22-154-26.liao.kdns.fr#台湾
@@ -189,9 +184,7 @@ hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@nl8.mechvpn.online:443/?insecure=1&sn
 hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@nl8.mechvpn.online:443/?insecure=1&sni=nl8.mechvpn.online#EPODONIOS
 hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@nl174.mechvpn.online:443/?insecure=1&sni=nl174.mechvpn.online#荷兰
 hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@nl174.mechvpn.online:443/?insecure=1&sni=nl174.mechvpn.online#EPODONIOS
-hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr194.mechvpn.online:443/?sni=fr194.mechvpn.online#法国#🌐سرور
 hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr194.mechvpn.online:443/?sni=fr194.mechvpn.online#法国
-hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr194.mechvpn.online:443/?sni=fr194.mechvpn.online#EPODONIOS#🌐سرور
 hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr194.mechvpn.online:443/?sni=fr194.mechvpn.online#EPODONIOS
 hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@at133.mechvpn.online:443/?sni=at133.mechvpn.online#奥地利
 hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@at133.mechvpn.online:443/?sni=at133.mechvpn.online#EPODONIOS
@@ -208,13 +201,14 @@ hy2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@lsj1.mangshe.xyz:2056/?insecure=1&sni
 hy2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@db1.mangshe.xyz:2056/?sni=db1.mangshe.xyz#阿联酋
 hy2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@db1.mangshe.xyz:2056/?sni=db1.mangshe.xyz#EPODONIOS
 hy2://1dcc3b89-0b45-3908-9120-19741361d55d@fg7xl1div.d33tqmk.cc:11173/?sni=xk7qhk307.ckpfef.top&obfs=salamander&obfs-password=1ol3tasb90#HK
-hy2://1dcc3b89-0b45-3908-9120-19741361d55d@fg7xl1div.d33tqmk.cc:11173/?sni=xk7qhk307.ckpfef.top&obfs=salamander&obfs-password=1ol3tasb90#EPODONIOS#🌐سرور
 hy2://1dcc3b89-0b45-3908-9120-19741361d55d@fg7xl1div.d33tqmk.cc:11173/?sni=xk7qhk307.ckpfef.top&obfs=salamander&obfs-password=1ol3tasb90#EPODONIOS
 hy2://1dcc3b89-0b45-3908-9120-19741361d55d@fg7xl1div.d33tqmk.cc:10030/?insecure=1&sni=xk7q3.ckpfef.top&obfs=salamander&obfs-password=1ol3tasb90#🇭🇰HK#🌐سرور
 hy2://1dcc3b89-0b45-3908-9120-19741361d55d@fg7xl1div.d33tqmk.cc:10030/?insecure=1&sni=xk7q3.ckpfef.top&obfs=salamander&obfs-password=1ol3tasb90#🇭🇰HK
+hy2://1dcc3b89-0b45-3908-9120-19741361d55d@fg7xl1div.d33tqmk.cc:10030/?insecure=1&sni=xk7q3.ckpfef.top&obfs=salamander&obfs-password=1ol3tasb90#EPODONIOS#🌐سرور
 hy2://1dcc3b89-0b45-3908-9120-19741361d55d@fg7xl1div.d33tqmk.cc:10030/?insecure=1&sni=xk7q3.ckpfef.top&obfs=salamander&obfs-password=1ol3tasb90#EPODONIOS
 hy2://1427eb10-7529-4d38-a6a2-01b337868b37@hk2.xiaoliyu.cyou:4433/?insecure=1&sni=hk2.xiaoliyu.cyou#香港
 hy2://1427eb10-7529-4d38-a6a2-01b337868b37@hk2.xiaoliyu.cyou:4433/?insecure=1&sni=hk2.xiaoliyu.cyou#EPODONIOS
+hy2://1427eb10-7529-4d38-a6a2-01b337868b37@hk2.xiaoliyu.cyou:4433/?insecure=1&security=tls&sni=hk2.xiaoliyu.cyou#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
 hy2://08794874-93d0-4cf2-b9d6-1f2774cdffeb@144.31.5.9:2101/?insecure=1&sni=panel.vlessbotkey.ru#波兰
 hy2://08794874-93d0-4cf2-b9d6-1f2774cdffeb@144.31.5.9:2101/?insecure=1&sni=panel.vlessbotkey.ru#EPODONIOS
 hy2://085178e12d2211ec@nl.prisma-access.club:8445/?sni=nl.prisma-access.club#荷兰
@@ -503,3 +497,9 @@ trojan://PQ05174892@ethical-raccoon.rooster465.autos:443?sni=ethical-raccoon.roo
 trojan://EQ30679154@dear-hermit.rooster465.autos:443?sni=dear-hermit.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%40WhiteDNS%20%7C%20US112%7C1.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-US%7CGM-US%7CCL-US%7CSP-US
 trojan://PQ05174892@43.207.145.97:443?sni=engaged-antelope.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP408%7C1.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
 trojan://FH72359861@54.168.199.96:443?sni=steady-lemming.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP407%7C1.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
+ss://YWVzLTI1Ni1nY206Tnh2OHlwRXJSZkNTY3pENw==@154.53.60.212:443#%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%40WhiteDNS%20%7C%20US111%7C1.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-US%7CGM-US%7CCL-US%7CSP-US
+trojan://FH72359861@54.249.80.161:443?sni=deep-ringtail.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP406%7C1.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
+trojan://HC04361579@pet-albacore.rooster465.autos:443?sni=pet-albacore.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP405%7C1.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
+trojan://AE62539071@safe-frog.rooster465.autos:443?sni=safe-frog.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP404%7C1.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
+trojan://PQ05174892@charmed-fly.rooster465.autos:443?sni=charmed-fly.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP403%7C1.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
+trojan://FH72359861@3.112.4.72:443?sni=definite-hen.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP402%7C1.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
