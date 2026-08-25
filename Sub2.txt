@@ -3,8 +3,6 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
-vless://f769b7ea-9cd1-4d61-b578-7644b7c8eb3d@104.21.55.229:8880?&security=none&type=ws&headerType=&host=quiet-waterfall-e914.180-ac4.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#Server 151 🇺🇸
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDE1LjIwNC4yNDYuMTMyOjczMDc=#Server 150
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk=@15.235.75.71:8388#Server 149 🇨🇦
 ss://YWVzLTI1Ni1nY206c0ZTMzQxZWNlYUlpU20yZA@154.53.63.33:443#Server 148 🇺🇸
 ss://YWVzLTI1Ni1jZmI6MTIzNCFAIyQ@49.254.204.133:1774#Server 147 🇰🇷
@@ -503,3 +501,5 @@ vless://d71aecee-ef16-418e-baf5-2b2458122d5a@194.31.223.87:5443?encryption=none&
 vless://93dac4b8-3879-4179-abdb-9666a9e2ca8d@87.120.84.32:33843?encryption=none&type=raw&headerType=none&security=tls&fp=chrome&sni=deproxy2.lckdwn.ru#[🇩🇪] [vl-tl-ra] [260825-224133.917]
 vless://8fe31772-a4b7-4a70-9fa2-34124c7284ca@194.31.223.87:3443?encryption=none&type=grpc&security=tls&sni=de.wlrus.cfd#[🇩🇪] [vl-tl-gr] [260825-224131.781]
 vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.58.41.39:443?encryption=none&type=xhttp&mode=auto&host=www.google.com&path=%2F&security=reality&fp=firefox&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&sni=www.google.com#[🇩🇪] [vl-re-xh] [260825-224214.442]
+vless://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@194.5.65.36:443?encryption=none&type=xhttp&mode=auto&path=%2F&security=reality&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&sni=ya.ru&sid=72cd47c079c0a3df#[🇩🇪] [vl-re-xh] [260825-224207.706]
+vless://8c105407-82fb-4dd1-8df4-916d34a7d3fe@194.48.250.31:443?encryption=none&type=xhttp&mode=auto&host=www.google.com&path=%2F&security=reality&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&sni=www.google.com#[🇩🇪] [vl-re-xh] [260825-224129.574]
