@@ -1,9 +1,3 @@
-trojan://c857562678594197@saj2000e.pacemakere.com:20063?allowInsecure=1#🇺🇸[openproxylist.com] trojan-US
-trojan://3b9deff947c74dde@kuso153.pacemakere.com:101?allowInsecure=1#🇬🇧[openproxylist.com] trojan-GB
-trojan://6519a715da174466@jcnp178.pacemakere.com:101?allowInsecure=1#🇯🇵[openproxylist.com] trojan-JP
-trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-latvia1.unlimited-access.ru:443?security=tls&sni=tr-latvia1.unlimited-access.ru#🇱🇻[openproxylist.com] trojan-LV
-trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@ru.techdatacloud.org:8443?type=tcp&security=reality&pbk=jaZRUO7x7awSXNBlvKp3nXdm2gBEsEgmNbbYs7RRQlw&fp=chrome&sni=cloud.mail.ru&sid=8c3785d47c2017ec&spx=/#🇷🇺[openproxylist.com] trojan-RU
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org#🇪🇪[openproxylist.com] trojan-EE
 trojan://MiTiVPN@140.248.185.253:443?allowInsecure=1&sni=ssl.fastly.com&ws=1&wspath=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-w%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20V2CROSS.COM
 trojan://humanity@188.114.97.7:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%A7%F0%9F%87%B7%20%E5%B7%B4%E8%A5%BF%E5%9C%A3%E4%BF%9D%E7%BD%97%20CloudFlare%E8%8A%82%E7%82%B9
 trojan://BxceQaOe@18.181.83.46:2944?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
@@ -28,6 +22,10 @@ trojan://Mehdi1234@172.64.144.251:2083?ed=2560&eh=Sec-WebSocket-Protocol&host=pu
 trojan://Telegram_healer_config@172.67.218.38:443?path=%2Ftr%2FdxyX388XOtyAjF3A%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=1v95v6tjywcytbahl7f7lx8b27g.l4495eycqmse9he0yvoemjfc4ibyf-4.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=1v95V6tjywCyTBAhl7f7lX8B27G.l4495eycQmSE9he0YVoemJfc4IBYf-4.wORkerS.dEV#%3E%3E%40configV2rayNG%3A%3AUS
 trojan://humanity@104.16.174.121:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@104.16.174.117:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
+trojan://c857562678594197@saj2000e.pacemakere.com:20063?allowInsecure=1#🇺🇸[openproxylist.com] trojan-US
+trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-latvia1.unlimited-access.ru:443?security=tls&sni=tr-latvia1.unlimited-access.ru#🇱🇻[openproxylist.com] trojan-LV
+trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@ru.techdatacloud.org:8443?type=tcp&security=reality&pbk=jaZRUO7x7awSXNBlvKp3nXdm2gBEsEgmNbbYs7RRQlw&fp=chrome&sni=cloud.mail.ru&sid=8c3785d47c2017ec&spx=/#🇷🇺[openproxylist.com] trojan-RU
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=russiapower.accesscam.org#🇪🇪[openproxylist.com] trojan-EE
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org#%F0%9F%87%AA%F0%9F%87%AAEE-109.206.241.10-0129
 trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-latvia1.unlimited-access.ru:443?security=tls&sni=tr-latvia1.unlimited-access.ru#%F0%9F%87%B1%F0%9F%87%BBLV-85.159.228.28-0225
 trojan://ND91608427@fleet-bonefish.rooster465.autos:443?security=tls&sni=fleet-bonefish.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8US-44.246.163.102-0146
@@ -103,16 +101,17 @@ trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@space.byu.id.yxls.eu.cc:443?type=w
 trojan://3b9deff947c74dde@kuso153.pacemakere.com:101?type=raw&headerType=none&security=tls#[🇺🇸] [tr-tl-ra] [260825-165957.675]
 trojan://5e89314202a8405f@kuso30.pacemakere.com:101?type=raw&headerType=none&security=tls#[🇺🇸] [tr-tl-ra] [260825-165958.139]
 trojan://ND91608427@fleet-bonefish.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=fleet-bonefish.rooster465.autos#[🇺🇸] [tr-tl-ra] [260825-170000.320]
-trojan://BxceQaOe@119.246.1.143:443?allowInsecure=1#Server 122 🇭🇰
-trojan://tsuchiya@aa.ccmusic.jp:443?security=tls&type=tcp&path=/#Server 152 🇯🇵
-trojan://c857562678594197@saj2000e.pacemakere.com:20063?allowInsecure=1#US 🇺🇸 | @Raydikalx | CAB15C
+trojan://a126f35c-e832-4115-8593-b723ade3f7be@hkdcrtc-e.catcat321.com:20066?security=tls&sni=hk.catxstar.com#Server 103 🇺🇸
+trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20066?allowInsecure=1&sni=hk.catxstar.com#Server 113 🇺🇸
+trojan://BxceQaOe@119.246.1.143:443?allowInsecure=1#Server 154 🇭🇰
+trojan://tsuchiya@aa.ccmusic.jp:443?security=tls&type=tcp&path=/#Server 161 🇯🇵
+trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20056?allowInsecure=1&sni=hk.catxstar.com#Server 174 🇺🇸
+trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20023?allowInsecure=1&sni=hk.catxstar.com#Server 175 🇺🇸
+trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20085?security=tls&sni=hk.catxstar.com#Server 178 🇺🇸
 trojan://3b9deff947c74dde@kuso153.pacemakere.com:101?security=tls&type=tcp&headerType=none#GB 🇬🇧 | @Raydikalx | 2EBC19
 trojan://c857562678594197@saj2000e.pacemakere.com:20063?security=tls&type=tcp&headerType=none#US 🇺🇸 | @Raydikalx | B91F02
-trojan://3b9deff947c74dde@kuso153.pacemakere.com:101?allowInsecure=1#GB 🇬🇧 | @Raydikalx | 8028A3
-trojan://EQ30679154@35.91.251.124:443?sni=sincere-gelding.rooster465.autos&fp=chrome&type=tcp&path=/#US 🇺🇸 | @Raydikalx | 000A56
-trojan://EQ30679154@sincere-gelding.rooster465.autos:443?sni=sincere-gelding.rooster465.autos&fp=chrome&type=tcp&path=/#US 🇺🇸 | @Raydikalx | 00C11B
 trojan://5e89314202a8405f@kuso30.pacemakere.com:101?security=tls#GB 🇬🇧 | @Raydikalx | E84AA9
-trojan://FH72359861@35.92.245.6:443?fp=chrome&sni=neutral-quail.rooster465.autos#US 🇺🇸 | @Raydikalx | 693B60
+trojan://c857562678594197@saj2000e.pacemakere.com:20063?security=tls&type=tcp&headerType=none&path=/#US 🇺🇸 | @Raydikalx | 965ABC
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12045
 trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#%5BOpenRay%5D%20Dynamic-11672
 trojan://humanity@188.114.96.3:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12178
@@ -143,10 +142,11 @@ trojan://MiTiVPN@167.82.101.251:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40M
 trojan://MiTiVPN@167.82.101.251:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-g%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=1&host=4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=google.com&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B8%F0%9F%87%AA%20%F0%9F%87%B8%F0%9F%87%AC%20%7C%20%5BBL%5D
 trojan://MiTiVPN@167.82.101.251:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-g%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=1&host=4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=google.com&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B8%F0%9F%87%AA%20%F0%9F%87%B8%F0%9F%87%AC%20%7C%20%5BBL%5D
 trojan://mitivpn@151.101.56.7:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fu-s%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=3x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&sni=google.com&alpn=http%2F1.1&insecure=1&allowInsecure=1&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B8%F0%9F%87%AA%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
-trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-switzerlandgopota.unlimited-access.ru:443?sni=tr-switzerlandgopota.unlimited-access.ru&type=raw&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20%7C%20%40WhiteDNS%20%7C%20CH11%7C32.0MB%2Fs%7CGPT%E2%81%BA-CH%7CCL-CH%7CSP-CH
-trojan://humanity@45.130.125.126:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20FR10%7C30.4MB%2Fs%7CGPT-FR%7CCL-FR%7CSP-FR
-trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-switzerlandgopota.unlimited-access.ru:443?sni=tr-switzerlandgopota.unlimited-access.ru&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20%7C%20%40WhiteDNS%20%7C%20CH13%7C29.8MB%2Fs%7CGPT%E2%81%BA-CH%7CCL-CH%7CSP-CH
-trojan://humanity@104.18.8.83:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20FR18%7C26.8MB%2Fs
-trojan://humanity@188.114.96.3:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20FR26%7C21.8MB%2Fs%7CGPT%E2%81%BA-FR%7CCL-FR%7CSP-FR
-trojan://humanity@45.130.125.112:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20FR29%7C21.3MB%2Fs%7CGPT-FR%7CCL-FR%7CSP-FR
-trojan://humanity@104.16.72.2:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20FR30%7C21.1MB%2Fs
+trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20022?sni=hk.catxstar.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%40WhiteDNS%20%7C%20GB1%7C34.4MB%2Fs%7CGPT%E2%81%BA-DE%7CCL-DE%7CSP-DE
+trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-switzerlandgopota.unlimited-access.ru:443?sni=tr-switzerlandgopota.unlimited-access.ru&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20%7C%20%40WhiteDNS%20%7C%20CH9%7C33.2MB%2Fs%7CGPT%E2%81%BA-CH%7CCL-CH%7CSP-CH
+trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-switzerlandgopota.unlimited-access.ru:443?sni=tr-switzerlandgopota.unlimited-access.ru&type=raw&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20%7C%20%40WhiteDNS%20%7C%20CH10%7C30.5MB%2Fs%7CGPT%E2%81%BA-CH%7CCL-CH%7CSP-CH
+trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-switzerlandgopota.unlimited-access.ru:443?sni=tr-switzerlandgopota.unlimited-access.ru&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20%7C%20%40WhiteDNS%20%7C%20CH11%7C28.8MB%2Fs%7CGPT%E2%81%BA-CH%7CCL-CH%7CSP-CH
+trojan://humanity@104.16.72.41:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20FR16%7C28.0MB%2Fs%7CGPT%7CCL-FR
+trojan://humanity@104.18.32.47:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20FR29%7C25.9MB%2Fs%7CGPT%E2%81%BA-FR%7CCL-FR%7CSP-FR
+trojan://humanity@45.130.125.126:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20FR40%7C23.2MB%2Fs%7CGPT-FR
+trojan://humanity@45.130.125.75:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20FR41%7C21.9MB%2Fs
