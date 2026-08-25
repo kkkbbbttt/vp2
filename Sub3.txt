@@ -3,6 +3,9 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
+vless://7c6a566b-4c4a-b8f2-1719-a3096b424141@172.67.133.170:8080?encryption=none&type=ws&host=peekconfigg.vipserver1-39d.workers.dev&path=%2Fsync&security=none#[🇺🇸] [vl-no-ws] [260825-074203.743]
+vless://7b8ff2bf-29c0-4a4f-8925-9f9ef6e486f5@104.24.152.211:8880?encryption=none&type=ws&host=long-math-be5a.233-98b.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#[🇺🇸] [vl-no-ws] [260825-074203.178]
+vless://7a629a11-b75a-4889-957d-dc0987a73a19@188.114.97.6:2086?encryption=none&type=ws&host=jimifree.jimshofree1.workers.dev&path=%2FeyJqdW5rIjoieVMzbmVFWlBsd3prIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OmIwOjY0OjpdIl19%3Fed&security=none#[🇺🇸] [vl-no-ws] [260825-074202.195]
 vless://77d68177-7331-4816-b5e9-23ec39a2ae3b@104.17.144.29:8880?encryption=none&type=ws&host=divine-rice-3224.464.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#[🇺🇸] [vl-no-ws] [260825-074200.387]
 vless://75323b6f-184f-4d00-839d-323b8fc70221@104.16.107.139:8880?encryption=none&type=ws&host=dry-sunset-f3c4.282.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#[🇺🇸] [vl-no-ws] [260825-074159.143]
 vless://723c410e-5789-4b21-abb9-d6ec05547ba9@104.26.13.40:8880?encryption=none&type=ws&host=blue-sky-e65b.221-553.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#[🇺🇸] [vl-no-ws] [260825-074157.514]
@@ -500,6 +503,3 @@ vmess://eyJhZGQiOiI0Ny44Ni4xNjcuMTk0IiwiaWQiOiJmMmM2N2NhZS1jMDlkLTQ3MzktOTQ3ZC1m
 vmess://eyJhZGQiOiIxNTQuMzcuMjIzLjU2IiwiaWQiOiJmMWFjNWM4Mi0wMGE0LTQwMGItYmIyMC01MzBjOTFiN2M1YmIiLCJwb3J0IjoiNTIwODAiLCJzY3kiOiJhdXRvIiwidiI6IjIiLCJuZXQiOiJyYXciLCJob3N0IjoiIiwicGF0aCI6Ii9RUXF1bi03Mzc4MDU0NDMiLCJ0eXBlIjoiaHR0cCIsInRscyI6Im5vbmUiLCJwcyI6Ilvwn4et8J+HsF0gW3ZtLW5vLXJhXSBbMjYwODI1LTA3NDQ1Mi44NDldIn0K
 vless://19bb341c-ee57-4899-b1e7-e9d3ebdf23df@xiweini.dpdns.org:30100?encryption=none&type=raw&headerType=none&security=tls&fp=chrome&sni=xiweini.dpdns.org#[🇭🇰] [vl-tl-ra] [260825-074055.495]
 vless://e01b5875-0b0b-4056-bbf5-0b0ecdc97937@9wf3-zili1w.laurelmedco.com:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=Z41OxiwFrf0VAEv7_qXoEMKSmLJPjEPPJzXpP1s6gGk&sni=www.cloudflare.com&sid=977a84fa5512be5a#[🇭🇰] [vl-re-ra] [260825-074304.853]
-vless://96563f88-f743-4395-a3b2-27ec462ae45e@35.241.98.220:443?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=bSK8gtmPMlw7gP415tmh6kQzzFiwzxBsT3Kuqql6cRo&sni=www.cloudflare.com&sid=ec2c7091fe76336c#[🇭🇰] [vl-re-ra] [260825-074220.241]
-vless://928e6cce-8ced-4243-9a48-a6642edd09b0@103.149.183.198:13779?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&sni=tesla.com&sid=af1bdd293097b664#[🇭🇰] [vl-re-ra] [260825-074217.949]
-vless://5e8e81ac-a1c4-4543-b81e-651bf9872b54@vj37-1936vtw.fincore.top:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=TP_bpIPUtjdxxGA9j7mpsHtSDfM2HMSZFNWW9MtDPT0&sni=www.bing.com&sid=14156e3ac23212cc#[🇭🇰] [vl-re-ra] [260825-074143.783]
