@@ -3,9 +3,6 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
-vless://28201cd6-c2a9-4703-a31b-eaf31ecb18fd@104.16.100.66:8880?encryption=none&type=ws&host=summer-butterfly-cbc8.26-971.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#[🇺🇸] [vl-no-ws] [260825-053447.623]
-vless://26beb784-a664-4c3e-becf-0f0c12568b62@91.193.58.24:80?encryption=none&type=ws&host=twilight-poetry-2bfe.218-699.workers.dev&path=%2Fpyip%3DTelegram-WangCai2%1F1E8%1F1F3&security=none#[🇺🇸] [vl-no-ws] [260825-053446.836]
-vless://25322a43-4ef3-45cc-9e96-db44bcccd7be@104.21.89.181:8880?encryption=none&type=ws&host=purple-disk-f68d.14-360.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#[🇺🇸] [vl-no-ws] [260825-053445.975]
 vless://24c2a873-4584-4c53-8679-61029682d0bb@104.16.107.139:8880?encryption=none&type=ws&host=soft-thunder-bc22.111-f59.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#[🇺🇸] [vl-no-ws] [260825-053445.803]
 vless://248b7825-58e7-41cc-899f-95e573e0127b@104.17.58.113:8880?encryption=none&type=ws&host=dry-violet-d6e0.38-431.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#[🇺🇸] [vl-no-ws] [260825-053445.674]
 vless://2145ee90-d933-4975-b4fe-8fa5365937f0@104.16.8.66:8880?encryption=none&type=ws&host=long-breeze-5552.250-271.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#[🇺🇸] [vl-no-ws] [260825-053443.576]
@@ -503,3 +500,6 @@ vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@one-for-all.levikogjgfdd.ir:2053?en
 vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@104.21.35.235:2053?encryption=none&type=ws&host=music1000.melobitmusic1.ir&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=music1000.melobitmusic1.ir#[🇬🇧] [vl-tl-ws] [260825-053634.655]
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@104.18.32.47:2053?encryption=none&type=ws&host=ov.iran-servers.shop&path=%2FJ5aLQOY1R9ONWYCM&security=tls&fp=chrome&sni=ov.iran-servers.shop#[🇬🇧] [vl-tl-ws] [260825-053630.557]
 vless://4bc8ff7a-20b4-41b2-9751-dfca869f0553@gb1.wba-pn.ru:443?encryption=none&type=ws&host=gb1.wba-pn.ru&path=%2F&security=tls&fp=edge&sni=gb1.wba-pn.ru#[🇬🇧] [vl-tl-ws] [260825-053508.887]
+vless://05cf7b0e-ad1a-42bb-80e7-73ae45b1019a@188.114.97.6:8443?encryption=none&type=ws&host=france.io-com-de-dev.org&path=%2Fapi%2Fvoip%2Fupdates%2Fstatic%2Fx9i2&security=tls&sni=france.io-com-de-dev.org#[🇬🇧] [vl-tl-ws] [260825-053427.775]
+vless://e5d917f5-fc78-455e-bbb5-81d08715f3d6@95.154.196.61:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=2ATxqiR22wlo3yXOHc43LFHM5NzWCdSGZLdBay_vJgM&sni=strapi.io&sid=e4a1b53b03eff60d#[🇬🇧] [vl-re-ra] [260825-053639.945]
+vless://d0f6c857-c814-438a-83f8-f34232294194@109.169.84.146:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=vvpu_ljhBuTWmM9w5Hl6jj8ZTiE_JYq29S77zNDeCjQ&sni=strapi.io&sid=ff6975658b6cefce#[🇬🇧] [vl-re-ra] [260825-053629.238]
