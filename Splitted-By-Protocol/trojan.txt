@@ -1,21 +1,3 @@
-trojan://Telegram_healer_config@6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev:443?path=%2Ftr%2FGaQvfFwT5sWgVxHig8YaXjtiuQPZNI%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=6m1rGyIEclMRx9HeF1.Z6-0hlNUbJIBwZPa85.wOrKerS.DEV#%3E%3E%40configV2rayNG%3A%3AUS
-trojan://Telegram_healer_config@188.114.97.3:443?path=%2Ftr%2Fox5zBiRQjs2Rscy0XwxXY2ZzE%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=6M1RGyIeClMRx9hef1.z6-0HlnubjIbWZpa85.wOrKerS.DEv#%3E%3E%40configV2rayNG%3A%3AUS
-trojan://Telegram_healer_config@104.21.4.124:443?path=%2Ftr%2FW3Ei3SdcW9sRVMLIbEd8sB1lm%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=vre6r9qrbqi0t25tg.srtb0m3hdbwr2cjz8fjur.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=vRE6r9qrbQi0T25tg.SRtB0M3HDbWr2cjZ8fJuR.WoRKerS.DEv#%3E%3E%40configV2rayNG%3A%3AUS
-trojan://Telegram_healer_config@188.114.96.3:443?path=%2Ftr%2FN61UxT346epoPVmA9xFM6H00%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=6M1RGYiecLMrX9HEf1.z6-0hLNuBjIBWzPa85.wOrkers.DEv#%3E%3E%40configV2rayNG%3A%3AUS
-trojan://Telegram_healer_config@104.21.24.95:443?path=%2Ftr%2FzJi4ccv7FeEo780U%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=1v95v6tjywcytbahl7f7lx8b27g.l4495eycqmse9he0yvoemjfc4ibyf-4.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=1V95V6TjywCyTbAHl7f7Lx8b27G.L4495eYcqmsE9he0yVoEMJFc4IBYf-4.wORkERS.DeV#%3E%3E%40configV2rayNG%3A%3AUS
-trojan://ND91608427@fleet-bonefish.rooster465.autos:443?allowInsecure=1&sni=fleet-bonefish.rooster465.autos#%3E%3E%40v2nodes%3A%3AUS
-trojan://humanity@104.16.174.117:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%3E%3E%40configV2rayNG%3A%3AFR
-trojan://humanity@104.16.174.121:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://humanity@130.250.137.171:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%3E%3E%40configV2rayNG%3A%3AFR
-trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%3E%3E%40configV2rayNG%3A%3AFR
-trojan://humanity@render.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%3E%3E%40prrofile_purple%3A%3AFR
-trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40outline_vpn%3A%3AFR
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40outline_vpn%3A%3AFR
-trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-switzerlandgopota.unlimited-access.ru:443?fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3ACH
-trojan://humanity@45.130.125.112:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40V2rayNG3%3A%3AFR
-trojan://Telegram_healer_config@172.67.132.19:443?path=%2Ftr%2FbDodLFtTQwCZ6EX3ffMYJ06j9EjLse4d%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=vre6r9qrbqi0t25tg.srtb0m3hdbwr2cjz8fjur.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=VRE6R9qRbQI0t25TG.SRTB0M3hdbwr2cJZ8fjUr.WoRKeRS.dev#%3E%3E%40configV2rayNG%3A%3AUS
-trojan://Telegram_healer_config@172.67.218.38:443?path=%2Ftr%2FdxyX388XOtyAjF3A%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=1v95v6tjywcytbahl7f7lx8b27g.l4495eycqmse9he0yvoemjfc4ibyf-4.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=1v95V6tjywCyTBAhl7f7lX8B27G.l4495eycQmSE9he0YVoemJfc4IBYf-4.wORkerS.dEV#%3E%3E%40configV2rayNG%3A%3AUS
 trojan://humanity@104.18.152.175:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20CloudFlare%E8%8A%82%E7%82%B9
 trojan://humanity@104.18.152.210:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20CloudFlare%E8%8A%82%E7%82%B9
 trojan://humanity@104.16.72.41:443?allowInsecure=0&sni=www.calmlunch.com&ws=1&wspath=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20CloudFlare%E8%8A%82%E7%82%B9
@@ -56,32 +38,11 @@ trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20085?allo
 trojan://7e70223b-f331-41d5-9313-02b8d2df2885@kkvlvvq-a.catcat321.com:20065?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%87%B5%F0%9F%87%B1_PL_%E6%B3%A2%E5%85%B0-%3E%F0%9F%87%AE%F0%9F%87%B9_IT_%E6%84%8F%E5%A4%A7%E5%88%A9
 trojan://a126f35c-e832-4115-8593-b723ade3f7be@hkdcrtc-e.catcat321.com:20066?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%87%B5%F0%9F%87%B1_PL_%E6%B3%A2%E5%85%B0-%3E%F0%9F%87%BA%F0%9F%87%A6_UA_%E4%B9%8C%E5%85%8B%E5%85%B0
 trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20066?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%87%B5%F0%9F%87%B1_PL_%E6%B3%A2%E5%85%B0-%3E%F0%9F%87%BA%F0%9F%87%A6_UA_%E4%B9%8C%E5%85%8B%E5%85%B0
+trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-latvia1.unlimited-access.ru:443?security=tls&sni=tr-latvia1.unlimited-access.ru#🇱🇻[openproxylist.com] trojan-LV
 trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?security=tls&sni=www.microsoft.com#🇺🇸[openproxylist.com] trojan-US
 trojan://FH72359861@44.251.158.80:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=obliging-louse.rooster465.autos#🇺🇸[openproxylist.com] trojan-US
 trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@ru.techdatacloud.org:8443?type=tcp&security=reality&pbk=jaZRUO7x7awSXNBlvKp3nXdm2gBEsEgmNbbYs7RRQlw&fp=chrome&sni=cloud.mail.ru&sid=8c3785d47c2017ec&spx=/#🇷🇺[openproxylist.com] trojan-RU
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?allowInsecure=1&sni=russiapower.accesscam.org#🇪🇪[openproxylist.com] trojan-EE
-trojan://0PUoUQvkGLkxuukHJLje21MCg1DNeOpx@vip-nl-1.hkd4fwmg.vip:28236?allowInsecure=0&sni=vip-nl-1.hkd4fwmg.vip#NL🇳🇱
-trojan://0PUoUQvkGLkxuukHJLje21MCg1DNeOpx@vip-nl-1.hkd4fwmg.vip:28236?allowInsecure=1&fp=chrome#NL🇳🇱
-trojan://AE62539071@193.169.239.14:443?fp=chrome&sni=emerging-weevil.rooster465.autos#NL🇳🇱
-trojan://AE62539071@193.169.239.160:443?fp=chrome&sni=thorough-falcon.rooster465.autos#NL🇳🇱
-trojan://AE62539071@89.39.70.238:443?fp=chrome&sni=present-warthog.rooster465.autos#NL🇳🇱
-trojan://AE62539071@89.39.70.238:443?type=tcp&security=tls&headerType=none&sni=present-warthog.rooster465.autos&insecure=0&allowInsecure=0#NL🇳🇱
-trojan://AE62539071@89.39.70.9:443?fp=chrome&sni=whole-woodcock.rooster465.autos#NL🇳🇱
-trojan://AE62539071@89.39.70.9:443?sni=whole-woodcock.rooster465.autos#NL🇳🇱
-trojan://AE62539071@thorough-falcon.rooster465.autos:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-193.169.239.160-0212
-trojan://EQ30679154@eager-louse.rooster465.autos:443#NL🇳🇱
-trojan://EQ30679154@thorough-falcon.rooster465.autos:443#NL🇳🇱
-trojan://FH72359861@89.39.70.120:443?sni=pro-crane.rooster465.autos#NL🇳🇱
-trojan://FH72359861@pro-crane.rooster465.autos:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-89.39.70.120-0204
-trojan://NQ26071394@89.39.70.143:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=thorough-falcon.rooster465.autos#NL🇳🇱
-trojan://NQ26071394@89.39.70.85:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grateful-bedbug.rooster465.autos#NL🇳🇱
-trojan://PQ05174892@89.39.70.64:443?fp=chrome&sni=actual-aardvark.rooster465.autos#NL🇳🇱
-trojan://PQ05174892@89.39.70.64:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=actual-aardvark.rooster465.autos#NL🇳🇱
-trojan://PQ05174892@actual-aardvark.rooster465.autos:443?fp=chrome#NL🇳🇱
-trojan://PQ05174892@casual-bullfrog.rooster465.autos:443?fp=chrome#NL🇳🇱
-trojan://PQ05174892@powerful-squid.rooster465.autos:443?fp=chrome#NL🇳🇱
-trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&sni=www.nintendogames.net&type=tcp#hamedvpns 🇭🇰 1
-trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&sni=www.nintendogames.net&type=tcp#hamedvpns 🇭🇰 3
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org#🇪🇪[openproxylist.com] trojan-EE
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org#%F0%9F%87%AA%F0%9F%87%AAEE-109.206.241.10-0134
 trojan://ND91608427@44.246.163.102:443?security=tls&sni=fleet-bonefish.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8US-44.246.163.102-0168
 trojan://ND91608427@fleet-bonefish.rooster465.autos:443?security=tls&sni=fleet-bonefish.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8US-44.246.163.102-0162
@@ -125,6 +86,46 @@ trojan://FH72359861@primary-leech.rooster465.autos:443?security=tls&sni=primary-
 trojan://AE62539071@tolerant-mosquito.rooster465.autos:443?security=tls&sni=tolerant-mosquito.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.89-0258
 trojan://FH72359861@magnetic-caiman.rooster465.autos:443?security=tls&sni=magnetic-caiman.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.233-0259
 trojan://ND91608427@discrete-basilisk.rooster465.autos:443?security=tls&sni=discrete-basilisk.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.148-0260
+trojan://Telegram_healer_config@6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev:443?path=%2Ftr%2FGaQvfFwT5sWgVxHig8YaXjtiuQPZNI%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=6m1rGyIEclMRx9HeF1.Z6-0hlNUbJIBwZPa85.wOrKerS.DEV#%3E%3E%40configV2rayNG%3A%3AUS
+trojan://Telegram_healer_config@188.114.97.3:443?path=%2Ftr%2Fox5zBiRQjs2Rscy0XwxXY2ZzE%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=6M1RGyIeClMRx9hef1.z6-0HlnubjIbWZpa85.wOrKerS.DEv#%3E%3E%40configV2rayNG%3A%3AUS
+trojan://Telegram_healer_config@104.21.4.124:443?path=%2Ftr%2FW3Ei3SdcW9sRVMLIbEd8sB1lm%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=vre6r9qrbqi0t25tg.srtb0m3hdbwr2cjz8fjur.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=vRE6r9qrbQi0T25tg.SRtB0M3HDbWr2cjZ8fJuR.WoRKerS.DEv#%3E%3E%40configV2rayNG%3A%3AUS
+trojan://Telegram_healer_config@188.114.96.3:443?path=%2Ftr%2FN61UxT346epoPVmA9xFM6H00%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=6M1RGYiecLMrX9HEf1.z6-0hLNuBjIBWzPa85.wOrkers.DEv#%3E%3E%40configV2rayNG%3A%3AUS
+trojan://Telegram_healer_config@104.21.24.95:443?path=%2Ftr%2FzJi4ccv7FeEo780U%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=1v95v6tjywcytbahl7f7lx8b27g.l4495eycqmse9he0yvoemjfc4ibyf-4.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=1V95V6TjywCyTbAHl7f7Lx8b27G.L4495eYcqmsE9he0yVoEMJFc4IBYf-4.wORkERS.DeV#%3E%3E%40configV2rayNG%3A%3AUS
+trojan://ND91608427@fleet-bonefish.rooster465.autos:443?allowInsecure=1&sni=fleet-bonefish.rooster465.autos#%3E%3E%40v2nodes%3A%3AUS
+trojan://humanity@104.16.174.117:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
+trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%3E%3E%40configV2rayNG%3A%3AFR
+trojan://humanity@104.16.174.121:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
+trojan://humanity@130.250.137.171:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%3E%3E%40configV2rayNG%3A%3AFR
+trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%3E%3E%40configV2rayNG%3A%3AFR
+trojan://humanity@render.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%3E%3E%40prrofile_purple%3A%3AFR
+trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40outline_vpn%3A%3AFR
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40outline_vpn%3A%3AFR
+trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-switzerlandgopota.unlimited-access.ru:443?fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3ACH
+trojan://humanity@45.130.125.112:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40V2rayNG3%3A%3AFR
+trojan://Telegram_healer_config@172.67.132.19:443?path=%2Ftr%2FbDodLFtTQwCZ6EX3ffMYJ06j9EjLse4d%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=vre6r9qrbqi0t25tg.srtb0m3hdbwr2cjz8fjur.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=VRE6R9qRbQI0t25TG.SRTB0M3hdbwr2cJZ8fjUr.WoRKeRS.dev#%3E%3E%40configV2rayNG%3A%3AUS
+trojan://Telegram_healer_config@172.67.218.38:443?path=%2Ftr%2FdxyX388XOtyAjF3A%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=1v95v6tjywcytbahl7f7lx8b27g.l4495eycqmse9he0yvoemjfc4ibyf-4.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=1v95V6tjywCyTBAhl7f7lX8B27G.l4495eycQmSE9he0YVoemJfc4IBYf-4.wORkerS.dEV#%3E%3E%40configV2rayNG%3A%3AUS
+trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&sni=www.nintendogames.net&type=tcp#hamedvpns 🇭🇰 1
+trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&sni=www.nintendogames.net&type=tcp#hamedvpns 🇭🇰 3
+trojan://0PUoUQvkGLkxuukHJLje21MCg1DNeOpx@vip-nl-1.hkd4fwmg.vip:28236?allowInsecure=0&sni=vip-nl-1.hkd4fwmg.vip#NL🇳🇱
+trojan://0PUoUQvkGLkxuukHJLje21MCg1DNeOpx@vip-nl-1.hkd4fwmg.vip:28236?allowInsecure=1&fp=chrome#NL🇳🇱
+trojan://AE62539071@193.169.239.14:443?fp=chrome&sni=emerging-weevil.rooster465.autos#NL🇳🇱
+trojan://AE62539071@193.169.239.160:443?fp=chrome&sni=thorough-falcon.rooster465.autos#NL🇳🇱
+trojan://AE62539071@89.39.70.238:443?fp=chrome&sni=present-warthog.rooster465.autos#NL🇳🇱
+trojan://AE62539071@89.39.70.238:443?type=tcp&security=tls&headerType=none&sni=present-warthog.rooster465.autos&insecure=0&allowInsecure=0#NL🇳🇱
+trojan://AE62539071@89.39.70.9:443?fp=chrome&sni=whole-woodcock.rooster465.autos#NL🇳🇱
+trojan://AE62539071@89.39.70.9:443?sni=whole-woodcock.rooster465.autos#NL🇳🇱
+trojan://AE62539071@thorough-falcon.rooster465.autos:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-193.169.239.160-0212
+trojan://EQ30679154@eager-louse.rooster465.autos:443#NL🇳🇱
+trojan://EQ30679154@thorough-falcon.rooster465.autos:443#NL🇳🇱
+trojan://FH72359861@89.39.70.120:443?sni=pro-crane.rooster465.autos#NL🇳🇱
+trojan://FH72359861@pro-crane.rooster465.autos:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-89.39.70.120-0204
+trojan://NQ26071394@89.39.70.143:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=thorough-falcon.rooster465.autos#NL🇳🇱
+trojan://NQ26071394@89.39.70.85:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grateful-bedbug.rooster465.autos#NL🇳🇱
+trojan://PQ05174892@89.39.70.64:443?fp=chrome&sni=actual-aardvark.rooster465.autos#NL🇳🇱
+trojan://PQ05174892@89.39.70.64:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=actual-aardvark.rooster465.autos#NL🇳🇱
+trojan://PQ05174892@actual-aardvark.rooster465.autos:443?fp=chrome#NL🇳🇱
+trojan://PQ05174892@casual-bullfrog.rooster465.autos:443?fp=chrome#NL🇳🇱
+trojan://PQ05174892@powerful-squid.rooster465.autos:443?fp=chrome#NL🇳🇱
 trojan://Telegram_healer_config@188.114.96.3:443?type=ws&host=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&path=%2Ftr%2FN61UxT346epoPVmA9xFM6H00%3Fed%3D2560&security=tls&alpn=http%2F1.1&fp=chrome&sni=6M1RGYiecLMrX9HEf1.z6-0hLNuBjIBWzPa85.wOrkers.DEv#[🇩🇪] [tr-tl-ws] [260826-074149.145]
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?type=raw&headerType=none&security=tls&sni=russiapower.accesscam.org#[🇪🇪] [tr-tl-ra] [260826-074151.378]
 trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20056?type=raw&headerType=none&security=tls&sni=hk.catxstar.com#[🇮🇩] [tr-tl-ra] [260826-074149.262]
@@ -153,31 +154,18 @@ trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443/?type=tcp&security=tl
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443/?type=tcp&security=tls&sni=moltbot.doctoroyy.net&allowInsecure=1&fp=edge#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%2C%20Kuala%20Lumpur%20%7C%20%5BBL%5D
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443/?type=tcp&security=tls&sni=moltbot.doctoroyy.net&allowInsecure=1&fp=firefox#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%2C%20Kuala%20Lumpur%20%7C%20%5BBL%5D
 trojan://8d19cac6-defb-46d1-a84a-a8100a86fd11@172.64.80.1:443/?type=ws&host=shazira.app&path=%2FNovan-ID10&security=tls&sni=shazira.app#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
-trojan://b0c94dd5-0c4c-6e1e-7ecf-84c386f7c748@172.67.143.54:443?sni=aged-silence-8d7d.tahaggs.workers.dev&type=ws&path=%2Ftaha3&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20%7C%20%40WhiteDNS%20%7C%20CH13%7C35.0MB%2Fs%7CGPT%E2%81%BA-CH%7CGM-CH%7CCL-CH%7CSP-CH
-trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-switzerlandgopota.unlimited-access.ru:443?sni=tr-switzerlandgopota.unlimited-access.ru&type=raw&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20%7C%20%40WhiteDNS%20%7C%20CH14%7C32.3MB%2Fs%7CGPT%E2%81%BA-CH%7CSP-CH
-trojan://humanity@104.18.32.47:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20FR7%7C31.0MB%2Fs%7CGPT%E2%81%BA-FR%7CCL-FR%7CSP-FR
-trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@45.95.232.189:443?sni=tr-switzerlandgopota.unlimited-access.ru&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20%7C%20%40WhiteDNS%20%7C%20CH19%7C30.1MB%2Fs%7CGPT%E2%81%BA-CH%7CCL-CH%7CSP-CH
-trojan://b0c94dd5-0c4c-6e1e-7ecf-84c386f7c748@172.67.143.54:2096?sni=aged-silence-8d7d.tahaggs.workers.dev&type=ws&path=%2Ftaha3&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20%7C%20%40WhiteDNS%20%7C%20CH20%7C30.1MB%2Fs%7CGPT%E2%81%BA-CH%7CGM-CH%7CCL-CH%7CSP-CH
-trojan://b0c94dd5-0c4c-6e1e-7ecf-84c386f7c748@aged-silence-8d7d.tahaggs.workers.dev:2096?sni=aged-silence-8d7d.tahaggs.workers.dev&allowInsecure=1&type=ws&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE79%7C29.7MB%2Fs%7CGPT%E2%81%BA-DE%7CCL-DE%7CSP-IT
-trojan://humanity@188.114.96.3:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20FR14%7C29.1MB%2Fs%7CGPT%E2%81%BA-FR%7CCL-FR%7CSP-FR
-trojan://humanity@198.62.62.23:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20FR22%7C27.9MB%2Fs%7CGPT%E2%81%BA-FR%7CCL-FR%7CSP-FR
-trojan://Telegram_healer_config@172.67.170.155:443?sni=JfW5fIi30I7-SC560AvFnfnH613.i6JSQ7mr66E-E14trd.WoRKErs.deV&type=ws&path=%2Ftr%2FBvZonkQYnXRYanP3KUCRjO%3Fed%3D2560&alpn=http%2F1.1&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE117%7C27.4MB%2Fs%7CGPT%E2%81%BA-DE%7CGM-CH%7CCL-DE%7CSP-CH
-trojan://humanity@104.20.6.134:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&alpn=h2%2Chttp%2F1.1&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20FR30%7C26.9MB%2Fs%7CGPT%E2%81%BA-FR%7CCL-FR%7CSP-FR
-trojan://Telegram_healer_config@soskeynets.z6-0hlnubjibwzpa85.workers.dev:443?sni=6m1rGyIEclMRx9HeF1.Z6-0hlNUbJIBwZPa85.wOrKerS.DEV&type=ws&path=%2Ftr%2FGaQvfFwT5sWgVxHig8YaXjtiuQPZNI%3Fed%3D2560&alpn=http%2F1.1&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE131%7C26.8MB%2Fs%7CGPT%E2%81%BA-NL%7CGM-SA%7CCL-DE%7CSP-IT
-trojan://988sR-269PKCKlb&3pMrFTEr@104.18.156.119:443?sni=LetiRanbrEaTh-7RrkEvFu2HJBIs5UHCXWztz24T5Vp6trF1oka8Dkrw0n.HE3fmQ6z0mfSZSK3Xy2E.wOrkers.deV&type=ws&path=%2FeyJqdW5rIjoicGpncHl4eVZoSnZQcFRTIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&alpn=http%2F1.1&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE134%7C26.8MB%2Fs%7CGPT%E2%81%BA-DE%7CCL-DE%7CSP-IT
-trojan://humanity@185.18.250.245:443?sni=www.calmlunch.com&allowInsecure=1&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20FR31%7C26.6MB%2Fs%7CGPT%E2%81%BA-FR%7CCL-FR%7CSP-FR
-trojan://humanity@45.130.125.112:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20FR33%7C26.5MB%2Fs%7CGPT%E2%81%BA-FR%7CCL-FR%7CSP-FR
-trojan://bpb-trojan@vless.herogoing.top:443?sni=vless.herogoing.top&type=ws&path=%2Ftr%3Fed%3D2560&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE142%7C26.3MB%2Fs%7CGPT%E2%81%BA-DE%7CGM-SA%7CCL-DE%7CSP-IT
-trojan://Telegram_healer_config@www.speedtest.net:443?sni=jfw5Fii30i7-sc560AVFNfNH613.i6JSQ7Mr66E-e14trd.wOrkeRs.dev&type=ws&path=%2Ftr%2FWBxqItFfodwwd5KkhKtK2o%3Fed%3D2560&alpn=http%2F1.1&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE155%7C25.8MB%2Fs%7CGPT%E2%81%BA-DE%7CGM-SA%7CCL-DE%7CSP-IT
-trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-switzerlandgopota.unlimited-access.ru:443?sni=tr-switzerlandgopota.unlimited-access.ru&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20%7C%20%40WhiteDNS%20%7C%20CH23%7C24.8MB%2Fs%7CGPT%E2%81%BA-CH%7CCL-CH%7CSP-CH
-trojan://humanity@45.130.125.190:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20FR40%7C24.3MB%2Fs%7CGPT%E2%81%BA-FR%7CCL-FR%7CSP-FR
-trojan://humanity@104.17.121.9:443?sni=www.calmlunch.com&allowInsecure=1&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20FR41%7C24.2MB%2Fs%7CGPT%E2%81%BA-FR%7CCL-FR%7CSP-FR
-trojan://bpb-trojan@172.64.80.1:443?sni=vless.herogoing.top&type=ws&path=%2Ftr%3Fed%3D2560&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE188%7C24.0MB%2Fs%7CGPT%E2%81%BA-NL%7CGM-SA%7CCL-DE%7CSP-IT
-trojan://b0c94dd5-0c4c-6e1e-7ecf-84c386f7c748@104.21.39.47:443?sni=aged-silence-8d7d.tahaggs.workers.dev&type=ws&path=%2Ftaha3&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE191%7C23.8MB%2Fs%7CGPT%E2%81%BA-DE%7CCL-DE%7CSP-IT
-trojan://humanity@45.130.125.18:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20FR43%7C23.8MB%2Fs%7CGPT%E2%81%BA-FR%7CCL-FR%7CSP-FR
-trojan://humanity@45.130.125.126:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20FR45%7C23.5MB%2Fs%7CGPT%E2%81%BA-FR%7CCL-FR%7CSP-FR
-trojan://humanity@88.99.189.60:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20FR46%7C23.4MB%2Fs%7CGPT%E2%81%BA-FR%7CCL-FR%7CSP-FR
-trojan://humanity@162.159.253.41:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20FR47%7C23.0MB%2Fs%7CGPT%E2%81%BA-FR%7CCL-FR%7CSP-FR
-trojan://Telegram_healer_config@188.114.97.7:443?sni=TH1R714O73d1P35f.mr2esNK29L620Xo76Kpuv-QUb4B7IDfR.WOrkeRS.DeV&type=ws&path=%2Ftr%2FgtMkuJkm42JnKfAr%3Fed%3D2560&alpn=http%2F1.1&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%40WhiteDNS%20%7C%20GB28%7C22.5MB%2Fs%7CGPT%E2%81%BA-DE%7CGM-SA%7CCL-NL%7CSP-IT
-trojan://zBSCrW4::FtMJG_oTAq@www.speedtest.net:2096?sni=VKvd8bpSkvXGjWdVCIDxGOccr.jAVaNBaGhE.wOrkERS.dEv&type=ws&path=%2Ftr%2Fw0JSSnC98vndqWna9w%3Fed%3D2560&alpn=http%2F1.1&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE215%7C22.1MB%2Fs%7CGPT%E2%81%BA-DE%7CGM-SA%7CCL-DE%7CSP-IT
-trojan://0b5fa773-6f37-4134-87d4-0c349742b6f6@104.21.43.90:443?sni=app-538961.user-y0o4gm.workers.dev&allowInsecure=1&type=ws&path=%2F&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE241%7C20.5MB%2Fs%7CGPT%E2%81%BA%7CCL-DE%7CSP-IT
+trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-switzerlandgopota.unlimited-access.ru:443?sni=tr-switzerlandgopota.unlimited-access.ru&type=raw&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20%7C%20%40WhiteDNS%20%7C%20CH13%7C34.5MB%2Fs%7CGPT%E2%81%BA-CH%7CCL-CH%7CSP-CH
+trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@45.95.232.189:443?sni=tr-switzerlandgopota.unlimited-access.ru&allowInsecure=1&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20%7C%20%40WhiteDNS%20%7C%20CH14%7C33.3MB%2Fs%7CGPT%E2%81%BA-CH%7CCL-CH%7CSP-CH
+trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-switzerlandgopota.unlimited-access.ru:443?sni=tr-switzerlandgopota.unlimited-access.ru&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20%7C%20%40WhiteDNS%20%7C%20CH16%7C32.2MB%2Fs%7CGPT%E2%81%BA-CH%7CSP-CH
+trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@45.95.232.189:443?sni=tr-switzerlandgopota.unlimited-access.ru&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20%7C%20%40WhiteDNS%20%7C%20CH17%7C31.5MB%2Fs%7CGPT%E2%81%BA-CH%7CCL-CH%7CSP-CH
+trojan://humanity@45.130.125.190:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20FR9%7C28.6MB%2Fs%7CGPT%E2%81%BA-FR%7CCL-FR%7CSP-FR
+trojan://988sR-269PKCKlb&3pMrFTEr@jquery.com:443?sni=LetiRanbrEaTh-7RrkEvFu2HJBIs5UHCXWztz24T5Vp6trF1oka8Dkrw0n.HE3fmQ6z0mfSZSK3Xy2E.wOrkers.deV&type=ws&path=%2FeyJqdW5rIjoicGpncHl4eVZoSnZQcFRTIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&alpn=http%2F1.1&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE79%7C28.2MB%2Fs%7CGPT%E2%81%BA-NL%7CGM-IT%7CCL-DE%7CSP-IT
+trojan://humanity@104.16.72.50:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20FR12%7C27.6MB%2Fs%7CGPT%E2%81%BA-FR%7CCL-FR%7CSP-FR
+trojan://humanity@104.21.103.254:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20FR22%7C24.5MB%2Fs%7CGPT%E2%81%BA-FR%7CCL-FR%7CSP-FR
+trojan://humanity@198.62.62.23:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20FR23%7C24.3MB%2Fs%7CGPT%E2%81%BA-FR%7CCL-FR%7CSP-FR
+trojan://988sR-269PKCKlb&3pMrFTEr@104.18.156.119:443?sni=LetiRanbrEaTh-7RrkEvFu2HJBIs5UHCXWztz24T5Vp6trF1oka8Dkrw0n.HE3fmQ6z0mfSZSK3Xy2E.wOrkers.deV&type=ws&path=%2FeyJqdW5rIjoicGpncHl4eVZoSnZQcFRTIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&alpn=http%2F1.1&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE134%7C24.1MB%2Fs%7CGPT%E2%81%BA-DE%7CGM-IT%7CCL-DE%7CSP-IT
+trojan://Telegram_healer_config@172.64.80.1:443?sni=To6R63-kKChiGHqm2.vxz0Dduq7to7Su0CDQf.worKERs.DEV&type=ws&path=%2Ftr%2FxwtrOUcg21SS0Ega%3Fed%3D2560&alpn=http%2F1.1&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE143%7C23.3MB%2Fs%7CGPT%E2%81%BA-DE%7CGM-SA%7CCL-DE%7CSP-IT
+trojan://humanity@104.25.109.237:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20FR24%7C22.7MB%2Fs%7CGPT%E2%81%BA-FR%7CCL-FR%7CSP-FR
+trojan://humanity@104.16.7.70:443?sni=www.calmlunch.com&allowInsecure=1&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20FR25%7C22.6MB%2Fs%7CGPT%E2%81%BA-FR%7CCL-FR%7CSP-FR
+trojan://humanity@45.130.125.112:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20FR27%7C22.4MB%2Fs%7CGPT%E2%81%BA-FR%7CCL-FR%7CSP-FR
+trojan://Telegram_healer_config@104.21.89.41:443?sni=tO6r63-kkChIGHQM2.VxZ0dDUq7To7su0cdqf.wORKeRS.dEV&type=ws&path=%2Ftr%2Fj6tUJYR3oc4EhmK7TiULZCYQO%3Fed%3D2560&alpn=http%2F1.1&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE177%7C20.8MB%2Fs%7CGPT%E2%81%BA-DE%7CCL-DE%7CSP-IT
