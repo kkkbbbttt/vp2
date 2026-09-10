@@ -3,14 +3,15 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.134:443#%3E%3E%40oneclickvpnkeys%3A%3APL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@51.255.13.232:8388#%3E%3E%40FreakConfig%3A%3AFR
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU%3D@51.77.225.200:8388#%3E%3E%40V2rayNG3%3A%3AXX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4QzV2YWxoT2Q4dmZ3YVRYVVNaNlp5YjBJcDM0bFJSNXo3UDhheg@103.160.63.199:31348#%3E%3E%40freeland8%3A%3AID
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%3E%3E%40shadowproxy66%3A%3ANL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443#%3E%3E%40oneclickvpnkeys%3A%3ACA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.224.152.189:50099#%3E%3E%40FreakConfig%3A%3AXX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#%3E%3E%40configV2rayNG%3A%3ANL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080?type=tcp&headerType=none#%3E%3E%40freeland8%3A%3AXX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE%3D@51.195.126.38:8388#%3E%3E%40V2rayNG3%3A%3ADE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#%3E%3E%40shadowproxy66%3A%3ANL
+vless://2b2ea9d8-501e-4b79-8fd9-19bff6ed5cf5@nl.cloudtechone.org:443?security=reality&amp;encryption=none&amp;pbk=_IBXb9NfhsnS21XbU9PIl73ExvrjXGXVLO0Za1ui5Fo&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=nl.cloudtechone.org&amp;sid=f93c9d5127e622e4#🇱🇻[openproxylist.com] vless-LV
+vless://02fcc1a4-ee90-4970-8bbb-4ffaa8109d24@195.123.213.28:443?Telegram=Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server&security=reality&encryption=none&pbk=NMgy1XgCSXExOg6Tg8xG9lCWttMF6sjdpB41lZy6FWo&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=5c256336e3b673fa#🇱🇻[openproxylist.com] vless-LV
+vless://d9d0f208-d582-41d5-bb7b-742671402810@144.31.215.48:443?security=reality&encryption=none&pbk=w0J3H-DEyHEK-Nj7bst_5sQqzcPl700ybHpqq5mFz0U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eu-central-de2.hanvpn.biz&sid=12a3b7681806bc97#🇩🇪[openproxylist.com] vless-DE
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@79.141.172.154:10453?mode=gun&security=reality&encryption=none&pbk=rAHMmpeUJ6uOoGgk31dTF4-1RTtLZFnOEs_li2AYQWc&fp=chrome&type=grpc&serviceName=TunService&sni=www.google.com#🇺🇸[openproxylist.com] vless-US
+vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.57.24:443?encryption=none&headerType=http&host=store.steampowered.com&path=/&security=none&type=tcp#🇩🇪[openproxylist.com] vless-DE
+vless://2b2ea9d8-501e-4b79-8fd9-19bff6ed5cf5@tr.cloudtechone.org:443?security=reality&encryption=none&pbk=_IBXb9NfhsnS21XbU9PIl73ExvrjXGXVLO0Za1ui5Fo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tr.cloudtechone.org&sid=f93c9d5127e622e4#🇹🇷[openproxylist.com] vless-TR
+vless://3d168677-10a1-43c1-90f3-18eaac90baff@207.241.172.98:4777?Telegram=Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server&security=reality&encryption=none&pbk=8ZL2JgDP9gHkgGTbGF-uK8omfWkFplZnCH0N2_U18Uo&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=01115788253bc845#🇩🇪[openproxylist.com] vless-DE
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.164:443?sni=ir.failspace.top&alpn=h2&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🇮🇪[openproxylist.com] vless-IE
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.210:2083?type=grpc&serviceName=vless#🇬🇧[openproxylist.com] vless-GB
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6aTY5OWR2cm8zK3l5YjlVNm8zcXNvam5vWncyTXN5bWZVOGpoVzZTelZMZz0@146.235.19.129:56927#🇸🇬[openproxylist.com] ss-SG
+vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&encryption=none&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&headerType=none&fp=chrome&type=tcp&sni=addons.mozilla.org#🇹🇼[openproxylist.com] vless-TW
+vless://81d8f575-a9c3-03e7-be6b-c0e1dc1d2e20@91.233.8.141:443?security=reality&encryption=none&pbk=k76Ze8R0E5NyZwvBZT1A4n0zlVXxTeHQDAs0bBqiGQw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tnt-cloud.ru&sid=6e5f2a3b#🇩🇪[openproxylist.com] vless-DE
